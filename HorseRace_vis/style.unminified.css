@@ -1,0 +1,61 @@
+/* Styles go in this file. */
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  margin: 0;
+  font-size: 12px;
+  -webkit-font-smoothing: antialiased;
+}
+* {
+  box-sizing: border-box;
+}
+svg {
+  display: block;
+}
+#viz-ui {
+  position: relative;
+  width: 100%;
+}
+#viz-ui .fl-controls-container {
+  margin-right: 1em;
+}
+#viz-ui #horse-controls,
+#viz-ui #filter-control {
+  display: inline-block;
+  vertical-align: top;
+}
+#viz-ui #replay {
+  cursor: pointer;
+}
+.x.axis line,
+.x.axis path {
+  display: none;
+}
+.x.axis text,
+.y.axis text {
+  font-size: 11px;
+}
+.horse,
+.rank-number,
+.end.circle,
+.name-bg,
+.name-fg,
+image,
+.check line,
+.check circle {
+  transition: 50ms opacity linear;
+}
+.rank-number {
+  font-weight: bold;
+}
+.tick line {
+  opacity: 1;
+}
+#replay {
+  display: table-cell;
+}
+/* Customer-specific styles go in this file. */
+/*# sourceMappingURL=style.unminified.css.map */

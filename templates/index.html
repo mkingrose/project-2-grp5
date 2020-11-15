@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Data Bootcamp Project 2</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/starter-template/">
+    <!-- <script src="script.js"></script> -->
+
+        <!-- Bootstrap core CSS -->
+<link  rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+    }
+
+    @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+        }
+    }
+    </style>
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type='text/css' href="{{ url_for('static', filename= 'starter-template.css') }}" >
+  </head>
+  <body>
+
+    
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand" href="../templates/index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="../templates/data.html">Data</a>
+          <li class="nav-item">
+            <a class="nav-link" href="../templates/Team.html">Team</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Visualizations</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="{{url_for('racecar')}}">New Disaster Displacement by Country</a>
+              <a class="dropdown-item" href="../templates/barchart.html">Displacement Causes</a>
+              <a class="dropdown-item" href="../templates/Piechart.html">Conflict vs. Disaster</a>
+              <!-- <a class="dropdown-item" href="../templates/visualization4.html">Visualization 4</a> -->
+            </div>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search">
+          <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    
+<main role="main" class="container">
+
+  <div class="starter-template">
+    <h1>Population Trends Over 10 Years in the Africa Region</h1>
+    <p class="lead">For our project, we took data from the World Bank and UNHCR and studied the displacement effects on the African population from 2009 to 2019.   </p>
+  </div>
+  
+  <!-- <div class="jumbotron">
+    <div class="container">
+      <h1 class="display-3">Hello, world!</h1>
+      <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+      <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+    </div>
+  </div> -->
+
+<!-- <div class="flourish-embed" data-src="{{URL}}/index.html"><script src="{{URL}}/flourish.embed.js"></script></div> -->
+
+<div class="container">
+  <!-- Example row of columns -->
+    <div class="row">
+      <div class="col-md-4">
+        <!-- <div class="flourish-embed" data-src="../Template/index.html"><script src="../HorseRace_vis/flourish.embed.js"></script></div> -->
+        <h2>New Disaster Displacement by Country</h2>
+        <p>By looking at a 10 year analysis, we took the following x countries and measured their population changes. On this visualzation you will see the 10 year displacement effect.  </p>
+        <p><a class="btn btn-secondary" href="{{url_for('racecar')}}" role="button">View graph &raquo;</a></p>
+      </div>
+      <div class="col-md-4">
+        <h2>Displacement Causes</h2>
+        <p> After assessing the data, we reviewed which displacements impacted the region the most over the 10 year time period. In this graph, the majority of population displacement is caused by Flood. </p>
+        <p><a class="btn btn-secondary" href="../templates/barchart.html" role="button">View graph &raquo;</a></p>   
+      </div>
+      <div class="col-md-4">
+        <h2>Conflict vs Disaster </h2>
+        <p>During our review, we also wanted to see how disaster versus conflict impacted the population numbers over the 10 yar time frame.  </p>
+        <p><a class="btn btn-secondary" href="../templates/Piechart.html" role="button">View graph &raquo;</a></p>
+      </div>
+      <!-- <div class="col-md-4">
+        <h2>Visualization 4</h2>
+        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p><a class="btn btn-secondary" href="../templates/visualization4.html" role="button">View graph &raquo;</a></p>
+      </div> -->
+    </div>
+
+  </div> <!-- /container -->
+
+</main>
+
+</main><!-- /.container -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../static/bootstrap.bundle.min.js"></script>
+</body>
+</html>

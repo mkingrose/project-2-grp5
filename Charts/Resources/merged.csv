@@ -1,0 +1,796 @@
+Country_Code,Country,Year,Start_Date,Event_Name,Hazard_Category,Hazard_Type,New_Displacements,Country_2D,Continent,Population
+AGO,Angola,2013,3/20/2013,Luanda floods,Weather related,Flood,2450.0,AO,AF,26015780
+AGO,Angola,2015,3/28/2015,Cuanza Sul flood,Weather related,Flood,483.0,AO,AF,27884381
+AGO,Angola,2015,3/9/2015,Luanda flash floods,Weather related,Flood,3920.0,AO,AF,27884381
+AGO,Angola,2015,3/11/2015,Lobito flash flood,Weather related,Flood,1192.0,AO,AF,27884381
+AGO,Angola,2016,1/1/2016,Rainy season floods,Weather related,Flood,19103.0,AO,AF,28842484
+AGO,Angola,2017,1/1/2017,Angola: Flood - Uige - 01/01/2017,Weather related,Flood,1382.0,AO,AF,29816748
+AGO,Angola,2017,3/15/2017,Angola: Flood - Cuanza Norte - 15/03/2017,Weather related,Flood,1392.0,AO,AF,29816748
+AGO,Angola,2017,3/21/2017,Angola: Flood - Luanda - 21/03/2017,Weather related,Flood,3430.0,AO,AF,29816748
+AGO,Angola,2017,9/17/2017,Angola: Storms - Huambo - 17/09/2017,Weather related,Storm,5.0,AO,AF,29816748
+AGO,Angola,2017,1/20/2017,Angola: Flood - Moxico - 20/01/2017,Weather related,Flood,5856.0,AO,AF,29816748
+AGO,Angola,2017,3/14/2017,Angola: Flood - Cunene - 14/03/2017,Weather related,Flood,1250.0,AO,AF,29816748
+AGO,Angola,2017,9/27/2017,Angola: Storms - Malanje - 27/09/2017,Weather related,Storm,539.0,AO,AF,29816748
+AGO,Angola,2017,11/5/2017,Angola: Storm - Zaire - 05/11/2017,Weather related,Storm,25.0,AO,AF,29816748
+AGO,Angola,2017,11/1/2017,Angola: Flood - Luanda - 01/11/2017,Weather related,Flood,44.0,AO,AF,29816748
+AGO,Angola,2018,4/1/2018,Angola: Flood - Bie - 01/04/2018,Weather related,Flood,2650.0,AO,AF,30809762
+AGO,Angola,2018,1/24/2018,Angola: Storm - Cuando Cubango - 24/01/2018,Weather related,Storm,18.0,AO,AF,30809762
+AGO,Angola,2018,2/21/2018,Angola: Flood - Luanda - 21/02/2018,Weather related,Flood,2671.0,AO,AF,30809762
+AGO,Angola,2018,2/22/2018,Angola: Storm - Cuanza Norte - 22/02/2018,Weather related,Storm,486.0,AO,AF,30809762
+AGO,Angola,2018,3/18/2018,Angola: Flood - Huila - 18/03/2018,Weather related,Flood,490.0,AO,AF,30809762
+AGO,Angola,2018,4/10/2018,Angola: Flood - Cuanza Norte - 10/04/2018,Weather related,Flood,1140.0,AO,AF,30809762
+AGO,Angola,2018,1/1/2018,Angola: Storms - Uige - 01/01/2018,Weather related,Storm,1611.0,AO,AF,30809762
+AGO,Angola,2018,10/15/2018,Angola: Floods- Malanje- 15/10/2018,Weather related,Flood,306.0,AO,AF,30809762
+AGO,Angola,2018,3/5/2018,Angola: Flash flood - Uige - 05/03/2018,Weather related,Flood,294.0,AO,AF,30809762
+AGO,Angola,2018,3/20/2018,Angola: Flash flood - Benguela - 20/03/2018,Weather related,Flood,100.0,AO,AF,30809762
+AGO,Angola,2018,9/30/2018,Angola- Flash Flood- Zaire- 30/10/2018,Weather related,Flood,246.0,AO,AF,30809762
+AGO,Angola,2018,2/26/2018,Angola: Storm - Cuando Cubango - 26/02/2018,Weather related,Storm,956.0,AO,AF,30809762
+AGO,Angola,2018,4/24/2018,Angola: Flood - Zaire - 24/04/2018,Weather related,Flood,147.0,AO,AF,30809762
+AGO,Angola,2019,12/3/2019,Angola: Flash floods- Cunene- (Ondija)- 03/12/2019,Weather related,Flood,34.0,AO,AF,31825295
+AGO,Angola,2019,2/25/2019,Angola: Flash flood- Malanje- 25/02/2019,Weather related,Flood,4890.0,AO,AF,31825295
+AGO,Angola,2019,3/19/2019,Angola: Floods - Zaire - 18/03/2019,Weather related,Flood,130.0,AO,AF,31825295
+AGO,Angola,2019,2/15/2019,Angola: Flash flood- Malanje- 15/02/2019,Weather related,Flood,774.0,AO,AF,31825295
+AGO,Angola,2019,2/21/2019,Angola: Flash flooding- Luanda- 21/02/2019,Weather related,Flood,200.0,AO,AF,31825295
+AGO,Angola,2019,11/19/2019,Angola: Flash floods- Kwanza Norte- (Dondo)- 19/11/2019,Weather related,Flood,500.0,AO,AF,31825295
+AGO,Angola,2019,3/16/2019,Angola: Floods - Benguela - 16/03/2019,Weather related,Flood,147.0,AO,AF,31825295
+BDI,Burundi,2014,2/9/2014,Bujumbura floods,Weather related,Flood,12500.0,BI,AF,9844297
+BDI,Burundi,2015,3/29/2015,Bujumbura rural province flood and landslides,Weather related,Flood,1605.0,BI,AF,10160030
+BDI,Burundi,2015,11/2/2015,Muhuta flood,Weather related,Flood,1472.0,BI,AF,10160030
+BDI,Burundi,2016,5/15/2016,Gatumba floods,Weather related,Flood,4179.0,BI,AF,10487998
+BDI,Burundi,2016,12/31/2015,Rainy season floods,Weather related,Flood,2377.0,BI,AF,10487998
+BDI,Burundi,2017,5/1/2017,"Burundi: landslides- Bubanza, Rumonge (01.05.2017)",Weather related,Wet mass movement,39.0,BI,AF,10827024
+BDI,Burundi,2017,10/1/2017,"Burundi: strong winds- Rumonge, Cankuzo (01/10/2017)",Weather related,Storm,1239.0,BI,AF,10827024
+BDI,Burundi,2017,7/1/2017,"Burundi: landslides- Kayanza, Muramvya (01.07.2017)",Weather related,Wet mass movement,18.0,BI,AF,10827024
+BDI,Burundi,2017,10/1/2017,Burundi: wildfires- 9 provinces (01/10/2017),Weather related,Wildfire,162.0,BI,AF,10827024
+BDI,Burundi,2017,6/1/2017,Burundi: wildfires- 7 provinces (01.06.2017),Weather related,Wildfire,146.0,BI,AF,10827024
+BDI,Burundi,2017,6/30/2017,Burundi: torrential rains- Cankuzo (06.30.2017),Weather related,Flood,8.0,BI,AF,10827024
+BDI,Burundi,2017,1/1/2017,Burundi: drought (01.01.2017),Weather related,Drought,4955.0,BI,AF,10827024
+BDI,Burundi,2017,7/1/2017,"Burundi: violent winds- Bujumbura Rural, Cankuzo (01.07.2017)",Weather related,Storm,113.0,BI,AF,10827024
+BDI,Burundi,2017,5/1/2017,"Burundi: violent winds- Cankuzo, Rutana (01.05.2017)",Weather related,Storm,463.0,BI,AF,10827024
+BDI,Burundi,2017,3/16/2017,Bujumbura floods,Weather related,Flood,729.0,BI,AF,10827024
+BDI,Burundi,2017,3/1/2017,"Muyinga, Cankuzo and Rutana heavy rains",Weather related,Storm,512.0,BI,AF,10827024
+BDI,Burundi,2017,3/1/2017,Makamba landslides,Weather related,Wet mass movement,78.0,BI,AF,10827024
+BDI,Burundi,2017,10/1/2017,"Burundi: torrential rains- Karusi, Bururi (01/10/2017)",Weather related,Flood,1648.0,BI,AF,10827024
+BDI,Burundi,2017,3/1/2017,"Rutana, Muyinga, and Rumonge Storms",Weather related,Storm,371.0,BI,AF,10827024
+BDI,Burundi,2017,5/1/2017,"Burundi: torrential rains- Bubanza, Gitega (01.05.2017)",Weather related,Flood,471.0,BI,AF,10827024
+BDI,Burundi,2018,6/1/2018,Burundi: Storms - Cankuzo; Cibitoke - June 2018,Weather related,Storm,33.0,BI,AF,11175378
+BDI,Burundi,2018,9/1/2018,Burundi: Landslides- 01/09/2018,Weather related,Wet mass movement,5.0,BI,AF,11175378
+BDI,Burundi,2018,9/1/2018,Burundi: Flash flooding- 01/09/2018,Weather related,Flood,75.0,BI,AF,11175378
+BDI,Burundi,2018,8/1/2018,"Burundi: Strong winds- Karuzi, Cankuzo, Ngozi, Bururi- 01/08/2018",Weather related,Storm,109.0,BI,AF,11175378
+BDI,Burundi,2018,8/1/2018,"Burundi: Flash flooding- Karuzi, Cibitoke- 01/08/2018",Weather related,Flood,27.0,BI,AF,11175378
+BDI,Burundi,2018,12/1/2018,Burundi: Landslides- 01/12/2018,Weather related,Flood,2.0,BI,AF,11175378
+BDI,Burundi,2018,7/1/2018,"Burundi: Strong winds- Bujumbura Rural, Karuzi, Makamba, Bururi- 01/07/2018",Weather related,Storm,51.0,BI,AF,11175378
+BDI,Burundi,2018,12/1/2018,Burundi: Flash floods- 01/12/2018,Weather related,Flood,1453.0,BI,AF,11175378
+BDI,Burundi,2018,7/1/2018,"Burundi: Flash floods- Bujumbura Rural, Bubanza, Murambya- July 2018",Weather related,Flood,40.0,BI,AF,11175378
+BDI,Burundi,2018,12/1/2018,Burundi: Strong winds- 01/12/2018,Weather related,Flood,362.0,BI,AF,11175378
+BDI,Burundi,2018,11/1/2018,Burundi: Landslide- 01/11/2018,Weather related,Wet mass movement,8.0,BI,AF,11175378
+BDI,Burundi,2018,11/1/2018,Burundi: Strong winds- 01/11/2018,Weather related,Storm,269.0,BI,AF,11175378
+BDI,Burundi,2018,11/1/2018,Burundi: Heavy rain- 01/11/2018,Weather related,Flood,2320.0,BI,AF,11175378
+BDI,Burundi,2018,9/1/2018,Burundi: Strong winds- 01/09/2018,Weather related,Storm,271.0,BI,AF,11175378
+BDI,Burundi,2018,10/1/2018,Burundi: Landslides- 01/10/2018,Weather related,Wet mass movement,6.0,BI,AF,11175378
+BDI,Burundi,2018,10/1/2018,Burundi: Strong winds- 12 provinces- 01/10/2018,Weather related,Storm,462.0,BI,AF,11175378
+BDI,Burundi,2018,10/1/2018,Burundi: Flash flooding- 13 provinces- 01/10/2018,Weather related,Flood,1079.0,BI,AF,11175378
+BDI,Burundi,2018,2/1/2018,"Burundi: Drought - Cankuzo, Makamba, Ngozi, Karuzi- Feb to Dec 2018",Weather related,Drought,844.0,BI,AF,11175378
+BDI,Burundi,2018,2/1/2018,Burundi: Flash floods - February 2018,Weather related,Flood,1978.0,BI,AF,11175378
+BDI,Burundi,2018,5/1/2018,Burundi: Landslides - Bujumbura Rural; Cibitoke; Rutana - May 2018,Weather related,Wet mass movement,74.0,BI,AF,11175378
+BDI,Burundi,2018,5/1/2018,Burundi: Storms - Bururi; Cankuzo; Karuzi; Ngozi; Rutana - May 2018,Weather related,Storm,105.0,BI,AF,11175378
+BDI,Burundi,2018,5/1/2018,Burundi: Flash floods - Cankuzo; Cibitoke; Gitega; Karuzo; Kirundo; Mwaro; Ngozi; Rutana - May 2018,Weather related,Flood,135.0,BI,AF,11175378
+BDI,Burundi,2018,4/1/2018,Burundi: Landslides - Murammvya; Kayanza; Bujumbura Rural; Ruyigi - April 2018,Weather related,Wet mass movement,291.0,BI,AF,11175378
+BDI,Burundi,2018,4/1/2018,Burundi: Storms - Bujumbura Rural; Bururi; Cankuzo; Karuzi; Makamba; Muyinga; Mwaro; Ngozi; Rutana; Ruyigi - April 2018,Weather related,Storm,625.0,BI,AF,11175378
+BDI,Burundi,2018,3/1/2018,Burundi: Landslides - Bujumbura Rural; Buriri; Gitega; Kayanza; Rumonge - March 2018,Weather related,Wet mass movement,93.0,BI,AF,11175378
+BDI,Burundi,2018,4/1/2018,Burundi: Flash floods - Bubanza; Bujumbura Mairie; Bujumbura Rural; Cankuzo; Cibitoke; Gitega; Karuzi; Kayanza; Makamba; Muramvya; Muyinga; Mwaro; Ngozi; Rumonge; Rutana; Ruyigi - April 2018,Weather related,Flood,17737.0,BI,AF,11175378
+BDI,Burundi,2018,3/1/2018,Burundi: Storms - Bujumbura Mairie; Bujumbura Rural; Cankuzo; Gitega; Karuzi; Muyinga; Ngozi; Rumonge; Rutana; Ruyigi - March 2018,Weather related,Storm,232.0,BI,AF,11175378
+BDI,Burundi,2018,3/1/2018,Burundi: Flash floods - March 2018,Weather related,Flood,2550.0,BI,AF,11175378
+BDI,Burundi,2018,2/1/2018,Burundi: Landslides - Makamba; Muramvya; Kayanza - February 2018,Weather related,Wet mass movement,40.0,BI,AF,11175378
+BDI,Burundi,2018,1/1/2018,Burundi: Flash floods - January 2018,Weather related,Flood,2949.0,BI,AF,11175378
+BDI,Burundi,2018,1/1/2018,Burundi: Storms - January 2018,Weather related,Storm,210.0,BI,AF,11175378
+BDI,Burundi,2018,2/1/2018,Burundi: Storms - February 2018,Weather related,Storm,380.0,BI,AF,11175378
+BDI,Burundi,2018,1/1/2018,Burundi: Landslides - January 2018,Weather related,Wet mass movement,80.0,BI,AF,11175378
+BDI,Burundi,2018,6/1/2018,Burundi: Landslide - Bujumbura Mairie - June 2018,Weather related,Wet mass movement,6.0,BI,AF,11175378
+BDI,Burundi,2018,6/1/2018,Burundi: Flash floods - Cibitoke - June 2018,Weather related,Flood,6.0,BI,AF,11175378
+BDI,Burundi,2019,10/1/2019,Burundi: Torrential rains- 15 provinces- 01/10/2019,Weather related,Flood,1007.0,BI,AF,11530580
+BDI,Burundi,2019,7/1/2019,"Burundi: Torrential downpour- Muyinga, Kirundo- 01/07/2019",Weather related,Flood,16.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Drought- Muyinga, Cankuzo, Makamba, Kirundo, Ngozi- 01/01/2019",Weather related,Drought,1718.0,BI,AF,11530580
+BDI,Burundi,2019,4/1/2019,"Burundi: Landslides- Mwaro, Makamba- 01/04/2019",Weather related,Wet mass movement,16.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Landslides-  Ngozi, Ruyigi- 01/02/2019",Weather related,Wet mass movement,10.0,BI,AF,11530580
+BDI,Burundi,2019,9/1/2019,Burundi: Flash floods- 16 provinces- 01/09/2019,Weather related,Flood,1314.0,BI,AF,11530580
+BDI,Burundi,2019,8/1/2019,Burundi: Torrential rains- 10 provinces- 01/08/2019,Weather related,Flood,105.0,BI,AF,11530580
+BDI,Burundi,2019,12/1/2019,Burundi: Flash floods- 18 provinces- 01/12/2019,Weather related,Flood,7534.0,BI,AF,11530580
+BDI,Burundi,2019,12/1/2019,Burundi: Mudslide- 4 provinces- 01/12/2019,Weather related,Wet mass movement,2686.0,BI,AF,11530580
+BDI,Burundi,2019,10/1/2019,Burundi: Strong winds- 13 provinces- 01/10/2019,Weather related,Storm,635.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Strong winds- Bubanza, Muramvya, Cankuzo, Karusi, Rutana- 01/01/2019",Weather related,Storm,243.0,BI,AF,11530580
+BDI,Burundi,2019,4/1/2019,Burundi: Torrential downpour- 13 provinces- 01/04/2019,Weather related,Flood,480.0,BI,AF,11530580
+BDI,Burundi,2019,6/1/2019,"Burundi: Torrential downpour- Bubanza, Muramvya, Cibitoke, Kirundo, Muyinga, Cankuzo- 01/06/2019",Weather related,Flood,139.0,BI,AF,11530580
+BDI,Burundi,2019,5/1/2019,Burundi: Strong winds- 8 provinces- 01/05/2019,Weather related,Storm,226.0,BI,AF,11530580
+BDI,Burundi,2019,4/1/2019,Burundi: Strong winds- 8 provinces- 01/04/2019,Weather related,Storm,378.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Torrential downpour- Kirundo, Mwaro, Ngozi, Ruyigi- 01/02/2019",Weather related,Flood,1388.0,BI,AF,11530580
+BDI,Burundi,2019,9/1/2019,Burundi: Landslides- Bubanza- 01/09/2019,Weather related,Wet mass movement,3.0,BI,AF,11530580
+BDI,Burundi,2019,6/1/2019,Burundi: Strong winds- 9 provinces- 01/06/2019,Weather related,Storm,169.0,BI,AF,11530580
+BDI,Burundi,2019,7/1/2019,"Burundi: Strong winds- Muyinga, Cankuzo, Ngozi, Makamba- 01/07/2019",Weather related,Storm,110.0,BI,AF,11530580
+BDI,Burundi,2019,11/1/2019,Burundi: Strong winds- 9 provinces- 01/11/2019,Weather related,Storm,248.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Torrential rains- Mwaro, Gitega, Muyinga, Cibitoke, Ngozi, Muramvya, Ruyigi, Cankuzo, Bujumbura Mairie, Karusi, Bujumbura Rural, Makamba, Rutana- 01/01/2019",Weather related,Flood,1017.0,BI,AF,11530580
+BDI,Burundi,2019,3/1/2019,Burundi: Torrential downpour- 15 provinces- 01/03/2019,Weather related,Flood,2260.0,BI,AF,11530580
+BDI,Burundi,2019,9/1/2019,Burundi: Strong winds- 14 provinces- 01/09/2019,Weather related,Storm,559.0,BI,AF,11530580
+BDI,Burundi,2019,3/1/2019,"Burundi: Landslides- Ruyigi, Bujumbura Mairie, Makamba- 01/03/2019",Weather related,Wet mass movement,144.0,BI,AF,11530580
+BDI,Burundi,2019,12/1/2019,Burundi: Strong winds- 11 provinces- 01/12/2019,Weather related,Storm,322.0,BI,AF,11530580
+BDI,Burundi,2019,11/1/2019,Burundi: Flash floods- 17 provinces- 01/11/2019,Weather related,Flood,2378.0,BI,AF,11530580
+BDI,Burundi,2019,1/1/2019,"Burundi: Strong winds-  Ngozi, Kirundo, Mwaro- 01/02/2019",Weather related,Storm,408.0,BI,AF,11530580
+BDI,Burundi,2019,5/1/2019,Burundi: Landslide- Cibitoke- 01/05/2019,Weather related,Wet mass movement,103.0,BI,AF,11530580
+BDI,Burundi,2019,12/1/2019,"Burundi: Landslides- Cibitoke, Bubanza- 01/11/2019",Weather related,Wet mass movement,235.0,BI,AF,11530580
+BDI,Burundi,2019,5/1/2019,"Burundi: Torrential downpour- Kirundo, Kayanza, Muramvya, Cibitoke, Muyinga, Ruyigi- 01/05/2019",Weather related,Flood,112.0,BI,AF,11530580
+BDI,Burundi,2019,8/1/2019,Burundi: Strong winds- 10 provinces- 01/08/2019,Weather related,Storm,278.0,BI,AF,11530580
+BDI,Burundi,2019,3/1/2019,Burundi: Strong winds- 13 provinces- 01/03/2019,Weather related,Storm,825.0,BI,AF,11530580
+BEN,Benin,2013,1/6/2013,Alloya bush fire,Weather related,Wildfire,3000.0,BJ,AF,10004588
+BEN,Benin,2013,12/19/2013,Karimama bush fire,Weather related,Wildfire,1745.0,BJ,AF,10004588
+BEN,Benin,2013,9/17/2013,Niger River Floods,Weather related,Flood,10000.0,BJ,AF,10004588
+BEN,Benin,2013,1/31/2013,Ouinhi bush fire,Weather related,Wildfire,711.0,BJ,AF,10004588
+BEN,Benin,2016,9/1/2016,Alibori department floods,Weather related,Flood,960.0,BJ,AF,10872067
+BEN,Benin,2017,9/10/2017,Benin: Floods - Northern Benin; Melanville; Karimama - 10/09/2017,Weather related,Flood,3528.0,BJ,AF,11175204
+BEN,Benin,2018,8/16/2018,Benin: Flood - Borgou - 16/08/2018,Weather related,Flood,94.0,BJ,AF,11485048
+BEN,Benin,2018,7/24/2018,"Benin: Storms - Alibori, Mono, Zou - 24/07/2018",Weather related,Flood,22468.0,BJ,AF,11485048
+BEN,Benin,2019,10/12/2019,Benin: Floods -  Mono and Couffo departments - 12/10/2019,Weather related,Flood,5000.0,BJ,AF,11801151
+BFA,Burkina Faso,2013,8/1/2013,Sahel Flood,Weather related,Flood,1763.0,BF,AF,17072775
+BFA,Burkina Faso,2015,7/1/2015,North-east and central regions floods,Weather related,Flood,3699.0,BF,AF,18110624
+BFA,Burkina Faso,2016,4/9/2016,Rainy season floods,Weather related,Flood,17868.0,BF,AF,18646378
+BFA,Burkina Faso,2017,7/9/2017,"Burkina Faso: Flash flooding- Soum, Yagha, Namentenga (9/07/2017)",Weather related,Flood,2907.0,BF,AF,19193284
+BFA,Burkina Faso,2017,5/1/2017,"Burkina Faso: Floods- Southwest, East Region (May 2017)",Weather related,Flood,4460.0,BF,AF,19193284
+BFA,Burkina Faso,2017,8/31/2017,Burkina Faso: Flash flooding- Oudalan- (31/08/2017),Weather related,Flood,850.0,BF,AF,19193284
+BFA,Burkina Faso,2018,9/24/2018,Burkina Faso: Flood - Yatenga - 24/09/2018,Weather related,Flood,669.0,BF,AF,19751535
+BFA,Burkina Faso,2018,6/23/2018,Burkina Faso: Storm - Sanmatenga - 23/06/2018,Weather related,Storm,385.0,BF,AF,19751535
+BFA,Burkina Faso,2018,8/13/2018,Burkina Faso: Flood - 6 provinces - 13/08/2018,Weather related,Flood,550.0,BF,AF,19751535
+BFA,Burkina Faso,2018,7/24/2018,Flood: Burkina Faso - Yatenga - 24/07/2018,Weather related,Flood,558.0,BF,AF,19751535
+BFA,Burkina Faso,2018,8/28/2018,Burkina Faso: Flood - Bam - 28/08/2018,Weather related,Flood,2950.0,BF,AF,19751535
+BWA,Botswana,2013,1/15/2013,Francistown flood,Weather related,Flood,1241.0,BW,AF,2062536
+BWA,Botswana,2014,1/1/2014,Northern districts hit by tropical storm,Weather related,Storm,2000.0,BW,AF,2088614
+BWA,Botswana,2015,11/19/2015,Bobonong storm,Weather related,Storm,250.0,BW,AF,2120716
+BWA,Botswana,2017,2/18/2017,Botswana; Mozambique; South Africa; Zimbabwe: Tropical Cyclone Dineo - 15/02/2017,Weather related,Storm,1950.0,BW,AF,2205128
+BWA,Botswana,2018,2/23/2018,Botswana: floods - Central District - 23/02/2018,Weather related,Flood,1634.0,BW,AF,2254126
+CAF,Central African Republic,2013,11/9/2013,Severe Local Storm,Weather related,Storm,1712.0,CF,AF,4447942
+CAF,Central African Republic,2013,3/4/2013,Severe Local Storm,Weather related,Storm,4024.0,CF,AF,4447942
+CAF,Central African Republic,2013,9/3/2013,"Districts of Issongo, Bea-Rex, Makambo, Sara Banga-2-Gbaya, Dombia, Bibalé, Souma Poto Poto, Fondo Yakite and Sara-Dah in Bangui floods",Weather related,Flood,1875.0,CF,AF,4447942
+CAF,Central African Republic,2013,6/8/2013,Bozoum's severe local storm,Weather related,Storm,6854.0,CF,AF,4447942
+CAF,Central African Republic,2014,10/29/2014,Bangui flood/Oubangui river overflown,Weather related,Flood,100.0,CF,AF,4464175
+CAF,Central African Republic,2014,10/1/2014,"Floods in Ouham Pende/Bozoum town/ Karibet, Yalet, Zama and Sontet neighbourhoods",Weather related,Flood,448.0,CF,AF,4464175
+CAF,Central African Republic,2014,10/29/2014,Bangassou flood,Weather related,Flood,396.0,CF,AF,4464175
+CAF,Central African Republic,2015,4/24/2015,Berberati storm,Weather related,Storm,1109.0,CF,AF,4493170
+CAF,Central African Republic,2016,11/7/2016,Boda heavy storms,Weather related,Storm,1374.0,CF,AF,4537687
+CAF,Central African Republic,2016,2/10/2016,Wildfire in Batangafo's IDP camp,Weather related,Wildfire,2240.0,CF,AF,4537687
+CAF,Central African Republic,2016,10/2/2016,Kaga Bandoro floods,Weather related,Flood,847.0,CF,AF,4537687
+CAF,Central African Republic,2016,10/26/2016,Bangui floods,Weather related,Flood,2327.0,CF,AF,4537687
+CAF,Central African Republic,2016,10/21/2016,Gadzi heavy storms,Weather related,Storm,676.0,CF,AF,4537687
+CAF,Central African Republic,2017,8/19/2017,"Central African Republic: Flash floods, Ombella-M'Poko prefecture (19/08/2017)",Weather related,Flood,1764.0,CF,AF,4596028
+CAF,Central African Republic,2017,8/15/2017,Central African Republic: Flash floods- Ouaka prefecture (Aug-Sep 2017),Weather related,Flood,1104.0,CF,AF,4596028
+CAF,Central African Republic,2018,9/23/2018,CAR: Flood - Bangui - 23/09/2018,Weather related,Flood,2000.0,CF,AF,4666377
+CAF,Central African Republic,2018,8/31/2018,CAR: Storms - Vakaga - 31/08/2018,Weather related,Storm,2924.0,CF,AF,4666377
+CAF,Central African Republic,2018,7/16/2018,CAR: Storm - Mambéré-Kadei - 16/07/2018,Weather related,Storm,400.0,CF,AF,4666377
+CAF,Central African Republic,2018,6/3/2018,CAR: Flood - Bangui - 03/06/2018,Weather related,Flood,1835.0,CF,AF,4666377
+CAF,Central African Republic,2018,8/26/2018,CAR: Flood - Ouham - 26/08/2018,Weather related,Flood,2000.0,CF,AF,4666377
+CAF,Central African Republic,2018,8/31/2018,CAR: Flood - Ouham-Péndé - 31/08/2018,Weather related,Flood,120.0,CF,AF,4666377
+CAF,Central African Republic,2019,10/23/2019,CAR: Flood - 8 prefectures (central) - 23/10/2019,Weather related,Flood,100000.0,CF,AF,4745185
+CAF,Central African Republic,2019,4/3/2019,CAR: Flood - Ombella-M'Poko - 03/04/2019,Weather related,Flood,184.0,CF,AF,4745185
+CAF,Central African Republic,2019,2/25/2019,CAR: Storm - Ombella M'Poko - 25/02/2019,Weather related,Storm,80.0,CF,AF,4745185
+CAF,Central African Republic,2019,5/9/2019,CAR: Flood - Nana Gribizi - 09/05/2019,Weather related,Flood,640.0,CF,AF,4745185
+CAF,Central African Republic,2019,8/14/2019,CAR: Flood - Bangui - 14/08/2019,Weather related,Flood,40.0,CF,AF,4745185
+CAF,Central African Republic,2019,2/9/2019,CAR: Wildfire - Lobaye - 09/02/2019,Weather related,Wildfire,58.0,CF,AF,4745185
+CAF,Central African Republic,2019,8/3/2019,CAR: Flood - Ombella M'Poko - 03/08/2019,Weather related,Flood,40.0,CF,AF,4745185
+CAF,Central African Republic,2019,8/19/2019,CAR: Flood - Ouham-Pendé - 19/08/2019,Weather related,Flood,796.0,CF,AF,4745185
+CMR,Cameroon,2013,9/17/2013,Kai Kai district flood,Weather related,Flood,10000.0,CM,AF,22077298
+CMR,Cameroon,2014,8/21/2014,Bibemi floods,Weather related,Flood,3500.0,CM,AF,22681858
+CMR,Cameroon,2015,9/1/2015,Logone-Et-Chari floods,Weather related,Flood,8565.0,CM,AF,23298368
+CMR,Cameroon,2015,6/18/2015,Douala flood,Weather related,Flood,2450.0,CM,AF,23298368
+CMR,Cameroon,2015,5/1/2015,Mayo-Danay floods,Weather related,Flood,260.0,CM,AF,23298368
+CMR,Cameroon,2019,11/4/2019,Cameroon: Flood - Extreme Nord (Darak) - 04/11/2019,Weather related,Flood,1191.0,CM,AF,25876380
+CMR,Cameroon,2019,9/29/2019,Cameroon: Floods - Far North - 29/09/2019,Weather related,Flood,18659.0,CM,AF,25876380
+CMR,Cameroon,2019,10/28/2019,Cameroon: Landslide West (Bafoussam) - 28/10/2019,Weather related,Wet mass movement,400.0,CM,AF,25876380
+CMR,Cameroon,2019,11/10/2019,Cameroon: Landslide - West (Njinka) - 10/11/2019,Weather related,Wet mass movement,39.0,CM,AF,25876380
+CMR,Cameroon,2019,8/11/2019,Cameroon: Flood - Nord Ouest - 11/08/2019,Weather related,Flood,3430.0,CM,AF,25876380
+COM,Comoros,2014,3/12/2014,Mahale quake,Geophysical,Earthquake,3030.0,KM,AF,759390
+COM,Comoros,2014,3/27/2014,Anjouan and Moheli floods,Weather related,Flood,8956.0,KM,AF,759390
+COM,Comoros,2017,4/28/2017,Comoros: floods - Grande Comore - 28/04/2017,Weather related,Flood,94.0,KM,AF,813892
+COM,Comoros,2019,4/23/2019,"Mozambique, Comoros, Tanzania, Mayotte: Cyclone Kenneth - 23/04/2019",Weather related,Storm,19372.0,KM,AF,850886
+CPV,Cabo Verde,2014,11/23/2014,Pico do Fogo eruption,Geophysical,Volcanic eruption,2500.0,CV,AF,518269
+CPV,Cabo Verde,2015,8/31/2015,Hurricane Fred,Weather related,Storm,190.0,CV,AF,524743
+CPV,Cabo Verde,2016,8/1/2016,Brava island seismic activity,Geophysical,Earthquake,300.0,CV,AF,531146
+DJI,Djibouti,2018,5/19/2018,"Djibouti, Ethiopia, Somalia, Yemen: Tropical Cyclone Sagar - 19/05/2018",Weather related,Storm,9365.0,DJ,AF,958920
+DJI,Djibouti,2019,11/21/2019,Djibouti: Flash floods- 6 regions- 21/11/2019,Weather related,Flood,10000.0,DJ,AF,973560
+DZA,Algeria,2014,8/1/2014,Algiers earthquake,Geophysical,Earthquake,4492.0,DZ,AF,38923687
+DZA,Algeria,2015,10/16/2015,Flood in Sahrawi refugees' Tindouf camps,Weather related,Flood,17100.0,DZ,AF,39728025
+DZA,Algeria,2015,3/19/2015,Tamanrasset flood,Weather related,Flood,2280.0,DZ,AF,39728025
+DZA,Algeria,2016,8/15/2016,Floods in Sahrawi refugee camps,Weather related,Flood,2030.0,DZ,AF,40551404
+DZA,Algeria,2018,4/14/2018,Algeria: Flood - Batna - 14/04/2018,Weather related,Flood,2.0,DZ,AF,42228429
+DZA,Algeria,2018,8/4/2018,Flood: Algeria - Tamanrasset - 04/08/2018,Weather related,Flood,15.0,DZ,AF,42228429
+DZA,Algeria,2018,4/25/2018,Algeria: Flood - Tiaret - 25/04/2018,Weather related,Flood,2.0,DZ,AF,42228429
+DZA,Algeria,2019,9/1/2019,Algeria: Flood - Jilel - 01/09/2019,Weather related,Flood,2.0,DZ,AF,43053054
+DZA,Algeria,2019,1/27/2019,Algeria: Flood - Annaba - 27/01/2019,Weather related,Flood,1778.0,DZ,AF,43053054
+DZA,Algeria,2019,1/11/2019,Algeria: Cold wave - 25 governorates - 11/01/2019,Weather related,Extreme temperature,1425.0,DZ,AF,43053054
+ETH,Ethiopia,2013,4/1/2013,Ethiopia Rainy Season Floods,Weather related,Flood,57991.0,ET,AF,95385785
+ETH,Ethiopia,2013,1/1/2013,Kabridehar Woreda flood,Weather related,Flood,2295.0,ET,AF,95385785
+ETH,Ethiopia,2013,4/1/2013,Strong Winds,Weather related,Storm,1200.0,ET,AF,95385785
+ETH,Ethiopia,2014,9/1/2014,Awash river flood,Weather related,Flood,36000.0,ET,AF,98094253
+ETH,Ethiopia,2014,1/1/2014,Shebelle flood,Weather related,Flood,877.0,ET,AF,98094253
+ETH,Ethiopia,2014,1/1/2014,Kebribeyah Woreda wildfire,Weather related,Wildfire,185.0,ET,AF,98094253
+ETH,Ethiopia,2014,1/1/2014,Babile Woreda storm,Weather related,Storm,780.0,ET,AF,98094253
+ETH,Ethiopia,2014,4/1/2014,Kabridehar Woreda storm,Weather related,Storm,1570.0,ET,AF,98094253
+ETH,Ethiopia,2014,4/1/2014,Shilabo Woreda,Weather related,Flood,10000.0,ET,AF,98094253
+ETH,Ethiopia,2015,4/1/2015,Sheygoosh woreda flood,Weather related,Flood,420.0,ET,AF,100835458
+ETH,Ethiopia,2015,10/23/2015,Shebelle zone flood,Weather related,Flood,46530.0,ET,AF,100835458
+ETH,Ethiopia,2015,5/1/2015,Bugna woreda fire,Weather related,Wildfire,100.0,ET,AF,100835458
+ETH,Ethiopia,2015,4/1/2015,Awash Fantale woreda flood,Weather related,Flood,720.0,ET,AF,100835458
+ETH,Ethiopia,2015,5/1/2015,Mida Oromo woreda fire,Weather related,Wildfire,345.0,ET,AF,100835458
+ETH,Ethiopia,2015,5/1/2015,Moret Jiru woreda fire,Weather related,Wildfire,80.0,ET,AF,100835458
+ETH,Ethiopia,2015,11/1/2015,Gamo Gofa zone flood,Weather related,Flood,495.0,ET,AF,100835458
+ETH,Ethiopia,2015,1/1/2015,Arsi Zone fire,Weather related,Wildfire,75.0,ET,AF,100835458
+ETH,Ethiopia,2015,5/1/2015,Deboweyin woreda flood,Weather related,Flood,1200.0,ET,AF,100835458
+ETH,Ethiopia,2015,3/14/2015,SNNPR region fires,Weather related,Wildfire,9880.0,ET,AF,100835458
+ETH,Ethiopia,2015,4/1/2015,Dolo Ado Woreda flood,Weather related,Flood,12564.0,ET,AF,100835458
+ETH,Ethiopia,2015,5/1/2015,Angolela woreda fire,Weather related,Wildfire,35.0,ET,AF,100835458
+ETH,Ethiopia,2015,11/11/2015,Liben zone flood,Weather related,Flood,19944.0,ET,AF,100835458
+ETH,Ethiopia,2015,10/24/2015,Korahe zone flood,Weather related,Flood,6498.0,ET,AF,100835458
+ETH,Ethiopia,2015,12/15/2015,Afar volcanic eruption,Geophysical,Volcanic activity,3900.0,ET,AF,100835458
+ETH,Ethiopia,2015,4/1/2015,Dugda Dawa woreda flood,Weather related,Flood,1225.0,ET,AF,100835458
+ETH,Ethiopia,2016,6/30/2016,Kiremt rains floods,Weather related,Flood,48774.0,ET,AF,103603501
+ETH,Ethiopia,2016,3/1/2016,Belg rains flash floods,Weather related,Flood,298382.0,ET,AF,103603501
+ETH,Ethiopia,2017,6/6/2017,Ethiopia: Flood - Oromia - 06/06/2017,Weather related,Flood,2684.0,ET,AF,106400024
+ETH,Ethiopia,2017,5/1/2017,Ethiopia: Flood - Afar - 01/05/2017,Weather related,Flood,699.0,ET,AF,106400024
+ETH,Ethiopia,2017,9/1/2017,Ethiopia: Flood - Gambella - 01/09/2017,Weather related,Flood,4804.0,ET,AF,106400024
+ETH,Ethiopia,2017,5/18/2017,Ethiopia: Flood - Gambella - 18/05/2017,Weather related,Flood,2395.0,ET,AF,106400024
+ETH,Ethiopia,2017,9/1/2017,Ethiopia: Flood - Amhara - 01/09/2017,Weather related,Flood,1148.0,ET,AF,106400024
+ETH,Ethiopia,2017,9/8/2017,"Ethiopia: Flood - Afar, Oromia - 08/09/2017",Weather related,Flood,36350.0,ET,AF,106400024
+ETH,Ethiopia,2017,1/1/2017,Ethiopia: Drought - 01/01/2017,Weather related,Drought,380830.0,ET,AF,106400024
+ETH,Ethiopia,2017,5/1/2017,Ethiopia: Floods - Somali - 01/05/2017,Weather related,Flood,3703.0,ET,AF,106400024
+ETH,Ethiopia,2017,9/1/2017,Ethiopia: Flood - Tigray - 01/09/2017,Weather related,Flood,508.0,ET,AF,106400024
+ETH,Ethiopia,2017,9/1/2017,Ethiopia: Landslide - Amhara - 01/09/2017,Weather related,Wet mass movement,444.0,ET,AF,106400024
+ETH,Ethiopia,2017,7/1/2017,Ethiopia: Flood - Amhara - 01/07/2017,Weather related,Flood,135.0,ET,AF,106400024
+ETH,Ethiopia,2017,7/1/2017,Ethiopia: Landslide - Amhara - 01/07/2017,Weather related,Wet mass movement,360.0,ET,AF,106400024
+ETH,Ethiopia,2017,7/1/2017,Ethiopia: Flood - Amhara - 01/07/2017,Weather related,Flood,115.0,ET,AF,106400024
+ETH,Ethiopia,2018,1/1/2018,Ethiopia: Drought - 01/01/2018,Weather related,Drought,120320.0,ET,AF,109224559
+ETH,Ethiopia,2018,5/26/2018,Ethiopia: Landslide - SNNPR - 26/05/2018,Weather related,Wet mass movement,654.0,ET,AF,109224559
+ETH,Ethiopia,2018,4/15/2018,Ethiopia: Flood - 4 regions - 15/04/2018,Weather related,Flood,170760.0,ET,AF,109224559
+ETH,Ethiopia,2018,5/19/2018,"Djibouti, Ethiopia, Somalia, Yemen: Tropical Cyclone Sagar - 19/05/2018",Weather related,Storm,4050.0,ET,AF,109224559
+ETH,Ethiopia,2019,1/1/2019,Ethiopia: Drought - 01/01/2019,Weather related,Drought,130957.0,ET,AF,112078730
+ETH,Ethiopia,2019,8/1/2019,Ethiopia: Flood - Amhara - 01/08/2019,Weather related,Flood,2.0,ET,AF,112078730
+ETH,Ethiopia,2019,9/23/2019,Ethiopia: Flood - 5 regions - 23/09/2019,Weather related,Flood,177431.0,ET,AF,112078730
+ETH,Ethiopia,2019,5/1/2019,Ethiopia: Flood - 6 states - 01/05/2019,Weather related,Flood,190377.0,ET,AF,112078730
+ETH,Ethiopia,2019,4/1/2019,Ethiopia: Flood - SNNP - 01/04/2019,Weather related,Flood,5600.0,ET,AF,112078730
+GAB,Gabon,2017,4/16/2017,Gabon: floods - Estuaire - 16/04/2017,Weather related,Flood,4.0,GA,AF,2064823
+GAB,Gabon,2017,2/17/2017,Gabon: floods - Estuaire - 17/02/2017,Weather related,Flood,4.0,GA,AF,2064823
+GHA,Ghana,2013,3/7/2013,"Gushegu, Yendi Municipal, Savelugu/Nanton, Saboba, Zabzugu, Tatale/Sanguli, Tamale Metropolis, Moin, Walewale and Bunkpurugu/Yunyoo districts",Weather related,Flood,23000.0,GH,AF,26607642
+GHA,Ghana,2013,8/29/2013,Bunkpurugu/Yunyuo district flash flood,Weather related,Flood,6021.0,GH,AF,26607642
+GHA,Ghana,2015,6/3/2015,Greater Accra region flood,Weather related,Flood,9255.0,GH,AF,27849205
+GHA,Ghana,2016,5/6/2016,Floods in Chereponi,Weather related,Flood,1000.0,GH,AF,28481946
+GHA,Ghana,2016,7/27/2016,Floods in Upper East,Weather related,Flood,2718.0,GH,AF,28481946
+GHA,Ghana,2016,7/23/2016,Floods in Tamale,Weather related,Flood,200.0,GH,AF,28481946
+GHA,Ghana,2016,3/4/2016,Torrential rains in the Northern region,Weather related,Flood,1800.0,GH,AF,28481946
+GHA,Ghana,2016,6/24/2016,Floods in Kumasi,Weather related,Flood,200.0,GH,AF,28481946
+GHA,Ghana,2016,9/15/2016,Floods in Eastern region,Weather related,Flood,2000.0,GH,AF,28481946
+GHA,Ghana,2017,6/16/2017,"Ghana: Flood - Volta, Western - 16/06/2017",Weather related,Flood,2455.0,GH,AF,29121471
+GHA,Ghana,2017,6/26/2017,Ghana: Flood - Western -26/06/2017,Weather related,Flood,300.0,GH,AF,29121471
+GHA,Ghana,2017,4/30/2017,Ghana: Storm - Upper East - 30/04/2017,Weather related,Storm,850.0,GH,AF,29121471
+GHA,Ghana,2017,3/1/2017,Ghana: Storm - Volta - 01/03/2017,Weather related,Storm,500.0,GH,AF,29121471
+GHA,Ghana,2017,2/24/2017,Ghana: Storm - Brong Ahafo - 24/02/2017,Weather related,Storm,932.0,GH,AF,29121471
+GHA,Ghana,2017,7/6/2017,Ghana: Flood - Accra - 06/07/2017,Weather related,Flood,700.0,GH,AF,29121471
+GHA,Ghana,2017,5/11/2017,Ghana: Storms - Northern - 11/05/2017,Weather related,Storm,1050.0,GH,AF,29121471
+GHA,Ghana,2017,6/16/2017,"Ghana: Flood - Eastern, Western, Central, Greater Accra - 16/06/2017",Weather related,Flood,6034.0,GH,AF,29121471
+GHA,Ghana,2017,5/30/2017,Ghana: Storm - Upper East - 30/05/2017,Weather related,Storm,6285.0,GH,AF,29121471
+GHA,Ghana,2017,7/25/2017,Ghana: Flood - Northern - 25/07/2017,Weather related,Flood,2446.0,GH,AF,29121471
+GHA,Ghana,2017,10/17/2017,Ghana: Storm - Brong Ahafo - 17/10/2017,Weather related,Storm,200.0,GH,AF,29121471
+GHA,Ghana,2017,9/24/2017,Ghana: Flood - Ashanti - 24/09/2017,Weather related,Flood,2.0,GH,AF,29121471
+GHA,Ghana,2017,8/4/2017,Ghana: Flood - Northern - 04/08/2017,Weather related,Flood,1526.0,GH,AF,29121471
+GHA,Ghana,2018,6/28/2018,Ghana: Flood - Ashanti - 28/06/2018,Weather related,Flood,300.0,GH,AF,29767108
+GHA,Ghana,2018,3/14/2018,Ghana: Storm - Central - 14/03/2018,Weather related,Storm,300.0,GH,AF,29767108
+GHA,Ghana,2018,3/15/2018,Ghana: Storms - Northern - 15/03/2018,Weather related,Storm,3000.0,GH,AF,29767108
+GHA,Ghana,2018,6/18/2018,Ghana: Floods - Accra - 19/06/2018,Weather related,Flood,2000.0,GH,AF,29767108
+GHA,Ghana,2018,10/16/2018,Ghana: Flood - Eastern region - 16/10/2018,Weather related,Flood,2000.0,GH,AF,29767108
+GHA,Ghana,2018,9/1/2018,Ghana: Flood - Northern region - 01/09/2018,Weather related,Flood,52000.0,GH,AF,29767108
+GHA,Ghana,2018,3/4/2018,Ghana: Storm - Ashanti - 04/03/2018,Weather related,Storm,600.0,GH,AF,29767108
+GHA,Ghana,2018,6/18/2018,DELETE-Double entry,Weather related,Flood,200.0,GH,AF,29767108
+GHA,Ghana,2018,3/4/2018,Ghana: Storm - Volta - 04/03/2018,Weather related,Storm,837.0,GH,AF,29767108
+GHA,Ghana,2019,4/4/2019,Ghana: Flood - Ashanti - 04/04/2019,Weather related,Flood,400.0,GH,AF,30417856
+GHA,Ghana,2019,5/20/2019,Ghana: Flood - Ashanti - 20/05/2019,Weather related,Flood,200.0,GH,AF,30417856
+GHA,Ghana,2019,3/6/2019,Ghana: Storm - Volta - 06/03/2019,Weather related,Storm,412.0,GH,AF,30417856
+GHA,Ghana,2019,10/6/2019,Ghana: Flood - Upper East region - 06/10/2019,Weather related,Flood,7742.0,GH,AF,30417856
+GHA,Ghana,2019,10/6/2019,Ghana: Flood - Kwahu West - 06/10/2019,Weather related,Flood,1200.0,GH,AF,30417856
+GHA,Ghana,2019,10/27/2019,Ghana: Flood - Eastern region - 27/10/2019,Weather related,Flood,1767.0,GH,AF,30417856
+GHA,Ghana,2019,3/24/2019,Ghana: Storm - Central - 24/03/2019,Weather related,Storm,2000.0,GH,AF,30417856
+GHA,Ghana,2019,5/30/2019,Ghana: Flood - Accra; Western - 30/05/2019,Weather related,Flood,2.0,GH,AF,30417856
+GHA,Ghana,2019,4/9/2019,Ghana: Flood - Eastern - 09/04/2019,Weather related,Flood,800.0,GH,AF,30417856
+GHA,Ghana,2019,7/3/2019,Ghana: Tidal waves inundation - Volta - 03/07/2019,Weather related,Flood,521.0,GH,AF,30417856
+GHA,Ghana,2019,2/1/2019,Ghana: Flood - Ashanti - 01/02/2019,Weather related,Flood,800.0,GH,AF,30417856
+GHA,Ghana,2019,5/5/2019,Ghana: Storm - Ashanti - 05/05/2019,Weather related,Storm,113.0,GH,AF,30417856
+GNB,Guinea-Bissau,2018,6/28/2018,Guinea Bissau: Storm - 28/06/2018,Weather related,Storm,3698.0,GW,AF,1874309
+GNB,Guinea-Bissau,2019,6/18/2019,Guinea-Bissau: Storm - Northern Oio - 18/06/2019,Weather related,Storm,414.0,GW,AF,1920922
+KEN,Kenya,2013,3/15/2013,Kenya Rainy Season Floods,Weather related,Flood,169692.0,KE,AF,45519889
+KEN,Kenya,2013,1/2/2013,Kenya January Heavy Rain Causing Flooding,Weather related,Flood,4590.0,KE,AF,45519889
+KEN,Kenya,2013,8/1/2013,Kenya August Flood,Weather related,Flood,6000.0,KE,AF,45519889
+KEN,Kenya,2014,11/14/2014,Bura floods,Weather related,Flood,1068.0,KE,AF,46699981
+KEN,Kenya,2014,12/4/2014,Jomvu mudslide,Weather related,Wet mass movement,300.0,KE,AF,46699981
+KEN,Kenya,2015,5/30/2015,South-east Kenya floods,Weather related,Flood,390.0,KE,AF,47878336
+KEN,Kenya,2015,10/1/2015,Short rainy season floods affected by El Nino,Weather related,Flood,103524.0,KE,AF,47878336
+KEN,Kenya,2015,12/20/2015,Southern floods (Dec),Weather related,Flood,1170.0,KE,AF,47878336
+KEN,Kenya,2016,4/29/2016,Country-wide spring season floods,Weather related,Flood,40318.0,KE,AF,49051686
+KEN,Kenya,2017,5/1/2017,Kenya: Flood - All counties - 01/05/2017,Weather related,Flood,24803.0,KE,AF,50221473
+KEN,Kenya,2017,11/1/2017,Kenya: Flood - Meru North - 01/11/2017,Weather related,Flood,8.0,KE,AF,50221473
+KEN,Kenya,2017,10/21/2017,Kenya: Flood - Isiolo - 21/10/2017,Weather related,Flood,293.0,KE,AF,50221473
+KEN,Kenya,2017,11/1/2017,Kenya: Flood - Marsabit - 01/11/2017,Weather related,Flood,312.0,KE,AF,50221473
+KEN,Kenya,2017,11/11/2017,Kenya: Flood - Kiambu - 11/11/2017,Weather related,Flood,10000.0,KE,AF,50221473
+KEN,Kenya,2017,5/30/2017,Kenya: Flash flood - Marsabit - 30/05/2017,Weather related,Flood,8.0,KE,AF,50221473
+KEN,Kenya,2018,3/20/2018,Kenya: Flood - Kisumu - 20/03/2018,Weather related,Flood,1950.0,KE,AF,51393010
+KEN,Kenya,2018,12/9/2018,Kenya: Flood - Kisumu - 09/12/2018,Weather related,Flood,300.0,KE,AF,51393010
+KEN,Kenya,2018,3/1/2018,Kenya: Flood - Taita Taveta - 01/03/2018,Weather related,Flood,700.0,KE,AF,51393010
+KEN,Kenya,2018,8/31/2018,Kenya: Flood - Baringo - 31/08/2018,Weather related,Flood,390.0,KE,AF,51393010
+KEN,Kenya,2018,3/22/2018,Kenya: Floods - Tana River - 22/03/2018,Weather related,Flood,3000.0,KE,AF,51393010
+KEN,Kenya,2018,3/15/2018,Kenya: Flood - Marsabit - 15/03/2018,Weather related,Flood,200.0,KE,AF,51393010
+KEN,Kenya,2018,7/21/2018,Kenya: Flood - Baringo - 21/07/2018,Weather related,Flood,8.0,KE,AF,51393010
+KEN,Kenya,2018,10/22/2018,Kenya: Flood - Tana River - 22/10/2018,Weather related,Flood,780.0,KE,AF,51393010
+KEN,Kenya,2018,4/1/2018,Kenya: Flood - 47 counties - 01/04/2018,Weather related,Flood,326612.0,KE,AF,51393010
+KEN,Kenya,2018,3/3/2018,Kenya: Storm - 6 counties - 03/03/2018,Weather related,Storm,1950.0,KE,AF,51393010
+KEN,Kenya,2018,3/17/2018,Kenya: Flood - Makueni - 17/03/2018,Weather related,Flood,378.0,KE,AF,51393010
+KEN,Kenya,2019,5/20/2019,Kenya: Flood - Kwale - 20/05/2019,Weather related,Flood,150.0,KE,AF,52573973
+KEN,Kenya,2019,10/1/2019,Kenya: Flood - 27 counties - 01/10/2019,Weather related,Flood,70842.0,KE,AF,52573973
+KEN,Kenya,2019,10/5/2019,Kenya: Flood - Marsabit (Moyale) - 05/10/2019,Weather related,Flood,1000.0,KE,AF,52573973
+KEN,Kenya,2019,5/8/2019,Kenya: Flood - Kirinyaga - 08/05/2019,Weather related,Flood,117.0,KE,AF,52573973
+KEN,Kenya,2019,3/11/2019,Kenya: forest fire - Jilore; Kakuyuni - 11/03/2019,Weather related,Wildfire,780.0,KE,AF,52573973
+KEN,Kenya,2019,3/4/2019,Kenya: Storm - Turkana - 04/03/2019,Weather related,Storm,437.0,KE,AF,52573973
+KEN,Kenya,2019,6/2/2019,Kenya: Flood - Nakuru - 02/06/2019,Weather related,Flood,8.0,KE,AF,52573973
+KEN,Kenya,2019,5/13/2019,Kenya: Earthquake - Nakuru - 13/05/2019,Geophysical,Earthquake,62.0,KE,AF,52573973
+KEN,Kenya,2019,7/11/2019,Kenya: Storm - Homa Bay - 11/07/2019,Weather related,Storm,156.0,KE,AF,52573973
+KEN,Kenya,2019,6/1/2019,Kenya: Flood - Turkana - 01/06/2019,Weather related,Flood,390.0,KE,AF,52573973
+LBR,Liberia,2014,7/5/2014,Monrovia suburbs flood,Weather related,Flood,650.0,LR,AF,4359505
+LBR,Liberia,2016,6/29/2016,Floods in Margibi,Weather related,Flood,10000.0,LR,AF,4586788
+LBR,Liberia,2017,9/15/2017,Liberia: floods - Margibi - 15/09/2017,Weather related,Flood,200.0,LR,AF,4702228
+LBR,Liberia,2017,3/4/2017,Liberia: Storm - Nimba - 04/03/2017,Weather related,Storm,200.0,LR,AF,4702228
+LBR,Liberia,2017,8/31/2017,Liberia: Floods - Suakoko Town - 31/08/2017,Weather related,Flood,566.0,LR,AF,4702228
+LBR,Liberia,2018,7/13/2018,Liberia: Flood - 6 counties - 09/07/2018,Weather related,Flood,15000.0,LR,AF,4818977
+LBR,Liberia,2018,8/16/2018,Liberia: Flood - Margibi - 16/08/2018,Weather related,Flood,101.0,LR,AF,4818977
+LBR,Liberia,2019,7/31/2019,Liberia: Mass movement (Sea erosion) - 31/07/2019,Weather related,Wet mass movement,330.0,LR,AF,4937374
+LBR,Liberia,2019,6/7/2019,Liberia: Storm - Nyor-Butuo - 07/06/2019,Weather related,Storm,269.0,LR,AF,4937374
+LSO,Lesotho,2014,11/11/2014,Storm in the North-western districts,Weather related,Storm,2600.0,LS,AF,2043437
+LSO,Lesotho,2018,3/1/2018,"Lesotho: Flash flood - Mafeteng, Mohale's Hoek - 01/03/2018",Weather related,Flood,1400.0,LS,AF,2108132
+MAR,Morocco,2014,11/24/2014,Floods in the South (Morocco),Weather related,Flood,1690.0,MA,AF,34192347
+MAR,Morocco,2019,8/28/2019,Morocco: Flood - Tata - 28/08/2019,Weather related,Flood,200.0,MA,AF,36471769
+MAR,Morocco,2019,9/12/2019,Morocco: Flood - Béni Mellal-Khénifra (Fqih Bensalah);  Marrakech-Safi (El Kelâa des Sraghna) - 12/09/2019,Weather related,Flood,2.0,MA,AF,36471769
+MDG,Madagascar,2009,1/1/2009,Tropical storm 'Jade',Weather related,Storm,4090.0,MG,AF,20569117
+MDG,Madagascar,2009,1/1/2009,Cyclones Eric and Fanele,Weather related,Storm,4012.0,MG,AF,20569117
+MDG,Madagascar,2010,1/1/2010,Tropical storm  'Hubert',Weather related,Storm,37891.0,MG,AF,21151640
+MDG,Madagascar,2011,1/1/2011,Tropical Cclone Bingiza,Weather related,Storm,25845.0,MG,AF,21743967
+MDG,Madagascar,2013,2/10/2013,Tropical Cyclone Haruna,Weather related,Storm,20000.0,MG,AF,22961253
+MDG,Madagascar,2014,2/10/2014,River Imazy Analavory overflown,Weather related,Flood,600.0,MG,AF,23589887
+MDG,Madagascar,2014,3/31/2014,Tropical cyclone Hellen,Weather related,Storm,1736.0,MG,AF,23589887
+MDG,Madagascar,2014,1/10/2014,Tropical cyclone Deliwe causing floods,Weather related,Storm,500.0,MG,AF,23589887
+MDG,Madagascar,2015,2/27/2015,Antananarivo flood,Weather related,Flood,38498.0,MG,AF,24234088
+MDG,Madagascar,2015,1/16/2015,Cyclone Chedza,Weather related,Storm,41118.0,MG,AF,24234088
+MDG,Madagascar,2015,2/6/2015,Cyclone Fundi,Weather related,Storm,7785.0,MG,AF,24234088
+MDG,Madagascar,2016,3/10/2016,Northern regions tropical storm,Weather related,Storm,51039.0,MG,AF,24894380
+MDG,Madagascar,2017,3/2/2017,Madagascar: Tropical cyclone Enawo - 02/03/2017,Weather related,Storm,246842.0,MG,AF,25570540
+MDG,Madagascar,2017,1/1/2017,Madagascar: Drought - 2017,Weather related,Drought,1190.0,MG,AF,25570540
+MDG,Madagascar,2018,1/1/2018,Madgascar - Drought - 2018,Weather related,Drought,686.0,MG,AF,26262368
+MDG,Madagascar,2018,3/16/2018,Madagascar: Tropical Cyclone Eliakim - 16/03/2018,Weather related,Storm,19439.0,MG,AF,26262368
+MDG,Madagascar,2018,3/2/2018,Madagascar: Landslide - Manjakamiadana Hill - 02/03/2018,Weather related,Wet mass movement,132.0,MG,AF,26262368
+MDG,Madagascar,2018,12/27/2017,Madagascar: Tropical Cyclone Ava - 05/01/2018,Weather related,Storm,54827.0,MG,AF,26262368
+MDG,Madagascar,2018,3/1/2018,Madagascar: Dry mass movement - Tsimialonjafy; Antananarivo - 01/03/2018,Geophysical,Dry mass movement,176.0,MG,AF,26262368
+MDG,Madagascar,2019,3/4/2019,"Malawi, Mozambique, Madagascar, Zimbabwe: Cyclone Idai - 04/03/2019",Weather related,Storm,500.0,MG,AF,26969307
+MDG,Madagascar,2019,1/19/2019,Madagascar: Landslide- Manjakamidana Hill - 19/01/2019,Geophysical,Dry mass movement,17.0,MG,AF,26969307
+MDG,Madagascar,2019,1/19/2019,Madagascar: Tropical Storm Eketsang- 19/01/2019,Weather related,Storm,2000.0,MG,AF,26969307
+MDG,Madagascar,2019,2/3/2019,Madagascar: Landslide- Manjakamidana Hill - 03/02/2019,Geophysical,Dry mass movement,22.0,MG,AF,26969307
+MDG,Madagascar,2019,11/23/2019,Madagascar: Fire - Southeast - 23/11/2019,Weather related,Wildfire,548.0,MG,AF,26969307
+MDG,Madagascar,2019,12/7/2019,"Mayotte,  Madagascar: Cyclone Belna - 07/12/2019",Weather related,Storm,2655.0,MG,AF,26969307
+MLI,Mali,2013,8/9/2013,Heavy rainfall causing flooding,Weather related,Flood,3500.0,ML,AF,16449864
+MLI,Mali,2013,8/28/2013,Bamako Floods,Weather related,Flood,20000.0,ML,AF,16449864
+MLI,Mali,2015,8/8/2015,Ménaka flood,Weather related,Flood,400.0,ML,AF,17438778
+MLI,Mali,2016,7/11/2016,Floods in seven regions,Weather related,Flood,8025.0,ML,AF,17965429
+MLI,Mali,2017,8/14/2017,Mali: Flood - 6 regions - August,Weather related,Flood,6848.0,ML,AF,18512394
+MLI,Mali,2018,5/1/2018,Mali: Flood - country-wide - 01/05/2018,Weather related,Flood,19397.0,ML,AF,19077690
+MLI,Mali,2019,8/24/2019,"Mali: Flood - Koulikoro, Timbuktu, Kidal, Mopti, Menaka - 24/08/2019",Weather related,Flood,4597.0,ML,AF,19658031
+MLI,Mali,2019,7/24/2019,Mali: Flood - Kidal - 24/07/2019,Weather related,Flood,167.0,ML,AF,19658031
+MLI,Mali,2019,8/10/2019,Mali: Storm - Tombouctou - 10/08/2019,Weather related,Flood,167.0,ML,AF,19658031
+MLI,Mali,2019,7/6/2019,Mali: Floods - San Cercle - 06/08/2019,Weather related,Flood,1055.0,ML,AF,19658031
+MLI,Mali,2019,5/16/2019,Mali: Flood - Bamako - 16/05/2019,Weather related,Flood,646.0,ML,AF,19658031
+MOZ,Mozambique,2009,1/1/2009,Tropical storm 'Izilda',Weather related,Storm,6500.0,MZ,AF,22894710
+MOZ,Mozambique,2013,1/12/2013,Mozambique January Floods,Weather related,Flood,185897.0,MZ,AF,25560725
+MOZ,Mozambique,2014,3/23/2014,Cabo Delgado storm,Weather related,Flood,8195.0,MZ,AF,26286163
+MOZ,Mozambique,2014,1/1/2014,Storms across the North-eastern and central regions,Weather related,Storm,12900.0,MZ,AF,26286163
+MOZ,Mozambique,2015,1/12/2015,Zambezia and Nampula floods,Weather related,Flood,61102.0,MZ,AF,27042002
+MOZ,Mozambique,2016,1/5/2016,"Floods in Niassa, Tete, Nampula and Cabo Dalgado provinces",Weather related,Flood,7009.0,MZ,AF,27829942
+MOZ,Mozambique,2017,12/25/2017,"Mozambique: floods - South, Central and North regions - 25/12/2017",Weather related,Flood,3092.0,MZ,AF,28649007
+MOZ,Mozambique,2017,2/18/2017,Botswana; Mozambique; South Africa; Zimbabwe: Tropical Cyclone Dineo - 15/02/2017,Weather related,Storm,144962.0,MZ,AF,28649007
+MOZ,Mozambique,2017,1/1/2017,Mozambique: floods - Central and southern Mozambique - 01/01/2017,Weather related,Flood,22010.0,MZ,AF,28649007
+MOZ,Mozambique,2018,1/25/2018,Mozambique: flood - Maputo; Matola - 25/01/2018,Weather related,Flood,1419.0,MZ,AF,29495962
+MOZ,Mozambique,2018,1/13/2018,"Mozambique: storm - Nampula, Cabo Delgado - 16/01/2018",Weather related,Storm,28810.0,MZ,AF,29495962
+MOZ,Mozambique,2018,2/19/2018,Mozambique: Rubbish tip collapse induced by torrential rain - Maputo - 19/02/2018,Weather related,Wet mass movement,443.0,MZ,AF,29495962
+MOZ,Mozambique,2018,12/22/2018,Mozambique: Earthquake - Manica - 22/12/2018,Geophysical,Earthquake,464.0,MZ,AF,29495962
+MOZ,Mozambique,2019,1/9/2019,"Mozambique: Storm- Niassa, Zambezia- 09/01/2019",Weather related,Storm,500.0,MZ,AF,30366036
+MOZ,Mozambique,2019,12/26/2019,"Mozambique: Storm- Cabo Delgado, Nampula- 26/12/2019",Weather related,Storm,1324.0,MZ,AF,30366036
+MOZ,Mozambique,2019,3/4/2019,"Malawi, Mozambique, Madagascar, Zimbabwe: Cyclone Idai - 04/03/2019",Weather related,Storm,478169.0,MZ,AF,30366036
+MOZ,Mozambique,2019,4/23/2019,"Mozambique, Comoros, Tanzania, Mayotte: Cyclone Kenneth - 23/04/2019",Weather related,Storm,23760.0,MZ,AF,30366036
+MOZ,Mozambique,2019,12/10/2019,"Mozambique: Flash floods- Manica, Sofala- 10/12/2019",Weather related,Flood,2146.0,MZ,AF,30366036
+MRT,Mauritania,2013,8/2/2013,Tourougueline flood,Weather related,Flood,624.0,MR,AF,3817494
+MRT,Mauritania,2017,9/4/2017,"Mauritania: Storm - Brakna, Assaba - 04/09/2017",Weather related,Storm,2945.0,MR,AF,4282574
+MRT,Mauritania,2018,9/14/2018,Flood: Mauritania: Hodh Ech Chargui - 14/09/2018,Weather related,Flood,445.0,MR,AF,4403319
+MRT,Mauritania,2019,8/26/2019,Mauritania - Floods - Guidimakha Wilaya - 24/08/2019,Weather related,Flood,6630.0,MR,AF,4525696
+MUS,Mauritius,2015,1/16/2015,Cyclone Bansi,Weather related,Storm,1400.0,MU,AF,1262605
+MUS,Mauritius,2016,2/10/2016,Floods in Mauritius,Weather related,Flood,300.0,MU,AF,1263473
+MUS,Mauritius,2017,5/1/2017,"Mauritius: floods - North, South, East part of Island - 01/05/2017",Weather related,Flood,100.0,MU,AF,1264613
+MUS,Mauritius,2018,1/15/2018,Mauritius; France (La Réunion): Tropical cyclone Berguitta - 15/01/2018,Weather related,Storm,3600.0,MU,AF,1265303
+MUS,Mauritius,2019,2/6/2019,Mauritius: Tropical Cyclone Gelena - Rodrigues Island- 06/02/2019,Weather related,Storm,142.0,MU,AF,1265711
+MUS,Mauritius,2019,1/28/2019,Mauritius: Flash flooding- 28/01/2019,Weather related,Flood,82.0,MU,AF,1265711
+MUS,Mauritius,2019,11/20/2019,Mauritius: Fire - Baie Du Tombeau - 20/11/2019,Weather related,Wildfire,49.0,MU,AF,1265711
+MUS,Mauritius,2019,3/25/2019,Mauritius: Cyclone Joaninha - 25/03/2019,Weather related,Storm,408.0,MU,AF,1265711
+MUS,Mauritius,2019,12/29/2019,Mauritius: Storm Calvinia - 29/12/2019,Weather related,Storm,335.0,MU,AF,1265711
+MWI,Malawi,2014,4/15/2014,Karonga flood,Weather related,Flood,602.0,MW,AF,16289540
+MWI,Malawi,2015,1/5/2015,Seasonal floods,Weather related,Flood,336053.0,MW,AF,16745303
+MWI,Malawi,2015,11/23/2015,Storm in the South-East-North regions,Weather related,Storm,6970.0,MW,AF,16745303
+MWI,Malawi,2016,4/6/2016,Karonga district floods (1st wave),Weather related,Flood,3928.0,MW,AF,17205289
+MWI,Malawi,2016,1/7/2016,Flood in Kasungu and Rumphi,Weather related,Flood,2722.0,MW,AF,17205289
+MWI,Malawi,2016,2/8/2016,Karonga district floods (2nd wave),Weather related,Flood,2870.0,MW,AF,17205289
+MWI,Malawi,2017,2/6/2017,Malawi: Flood - Dedza - 06/02/2017,Weather related,Flood,1640.0,MW,AF,17670260
+MWI,Malawi,2017,2/9/2017,Malawi: Flood - Lilongwe - 09/02/2017,Weather related,Flood,4100.0,MW,AF,17670260
+MWI,Malawi,2017,3/28/2017,Malawi: Flood - Karonga - 28/03/2017,Weather related,Flood,55921.0,MW,AF,17670260
+MWI,Malawi,2017,12/16/2017,Malawi: Flood - Lilongwe - 16/12/2017,Weather related,Flood,1000.0,MW,AF,17670260
+MWI,Malawi,2017,10/12/2017,Malawi: Storms - 8 districts - 12/10/2017,Weather related,Storm,12529.0,MW,AF,17670260
+MWI,Malawi,2017,11/27/2017,Malawi: Storm - Nkhata Bay - 27/11/2017,Weather related,Storm,100.0,MW,AF,17670260
+MWI,Malawi,2017,2/4/2017,Malawi: Flood - Salima - 04/02/2017,Weather related,Flood,7216.0,MW,AF,17670260
+MWI,Malawi,2017,11/23/2017,Malawi: Storm - Nkhotakota - 23/11/2017,Weather related,Storm,410.0,MW,AF,17670260
+MWI,Malawi,2017,12/16/2017,Malawi: Flood - Rumphi - 16/12/2017,Weather related,Flood,287.0,MW,AF,17670260
+MWI,Malawi,2017,1/3/2017,Malawi: Storm - Mchinji - 03/01/2017,Weather related,Storm,893.0,MW,AF,17670260
+MWI,Malawi,2018,1/30/2018,Malawi: Flood - Karonga - 30/01/2018,Weather related,Flood,820.0,MW,AF,18143315
+MWI,Malawi,2018,12/20/2018,"Malawi: Floods - Nansenga, Chikundo and Chipoka villages - 26/12/2018",Weather related,Flood,74.0,MW,AF,18143315
+MWI,Malawi,2018,11/29/2018,Malawi: Heavy rains- Mzimba- 29/11/2018,Weather related,Flood,107.0,MW,AF,18143315
+MWI,Malawi,2018,1/9/2018,Malawi: Storm - Mzimba - 09/01/2018,Weather related,Storm,213.0,MW,AF,18143315
+MWI,Malawi,2018,1/8/2018,Malawi: Storm - Nhkotakota - 08/01/2018,Weather related,Storm,1025.0,MW,AF,18143315
+MWI,Malawi,2018,3/3/2018,"Malawi: Flood - Chikwawa, Lilongwe - 03/03/2018",Weather related,Flood,267.0,MW,AF,18143315
+MWI,Malawi,2018,11/1/2018,Malawi: Floods- Karonga- 01/11/2018,Weather related,Flood,988.0,MW,AF,18143315
+MWI,Malawi,2018,12/18/2018,"Malawi: Flash Floods - Southern Region (Balaka, Mangochi) - 18/12/2018",Weather related,Flood,1984.0,MW,AF,18143315
+MWI,Malawi,2018,4/13/2018,Malawi: Flood - Karonga - 13/04/2018,Weather related,Flood,3354.0,MW,AF,18143315
+MWI,Malawi,2018,2/7/2018,"Malawi: Flood - Salima, Phalombe, Karonga - 07/02/2018",Weather related,Flood,1863.0,MW,AF,18143315
+MWI,Malawi,2018,9/9/2018,Malawi: Storm- Southern Region (Chikwawa and Phalombe districts)- 09/09/2018,Weather related,Storm,2000.0,MW,AF,18143315
+MWI,Malawi,2018,4/9/2018,Malawi: Flood - Nkhotakota - 16/04/2018,Weather related,Flood,6500.0,MW,AF,18143315
+MWI,Malawi,2018,11/26/2018,Malawi: Stong Wind - 26/11/2018,Weather related,Storm,500.0,MW,AF,18143315
+MWI,Malawi,2018,12/23/2018,Malawi: Storm- Mulanje- 23/12/2018,Weather related,Storm,533.0,MW,AF,18143315
+MWI,Malawi,2019,1/10/2019,Malawi: Riverine flood- Lilongwe- 10/01/2019,Weather related,Flood,176.0,MW,AF,18628747
+MWI,Malawi,2019,12/31/2019,Malawi: Floods - Central region (Lilongwe) - 31/12/2019,Weather related,Flood,102.0,MW,AF,18628747
+MWI,Malawi,2019,1/22/2019,Malawi: Floods- Chikwawa (Southern Region)- 22/01/2019,Weather related,Flood,5078.0,MW,AF,18628747
+MWI,Malawi,2019,4/20/2019,Malawi: Landslide- Rumphi- 20/04/2019,Geophysical,Dry mass movement,8.0,MW,AF,18628747
+MWI,Malawi,2019,11/28/2019,Malawi: Storm - Southern region (Machinga) - 28/11/2019,Weather related,Flood,492.0,MW,AF,18628747
+MWI,Malawi,2019,2/13/2019,Malawi: Floods - Central and Southern Regions - 13/02/2019,Weather related,Flood,859.0,MW,AF,18628747
+MWI,Malawi,2019,3/4/2019,"Malawi, Mozambique, Madagascar, Zimbabwe: Cyclone Idai - 04/03/2019",Weather related,Storm,110110.0,MW,AF,18628747
+NAM,Namibia,2013,1/3/2013,Caprivi region flood,Weather related,Flood,17915.0,NA,AF,2233510
+NAM,Namibia,2014,3/1/2014,Zambezi flood,Weather related,Flood,63.0,NA,AF,2273430
+NAM,Namibia,2014,3/1/2014,River Kunene overflowing,Weather related,Flood,100.0,NA,AF,2273430
+NAM,Namibia,2015,1/1/2015,Floods in Omusati region and Karas region,Weather related,Flood,8.0,NA,AF,2314904
+NAM,Namibia,2017,1/1/2017,Namibia: Floods - Northern regions - 01/01/2018,Weather related,Flood,3331.0,NA,AF,2402603
+NAM,Namibia,2017,10/11/2017,Namibia: Storm - Bushenyi - 11/10/2017,Weather related,Storm,28.0,NA,AF,2402603
+NAM,Namibia,2017,12/18/2017,Namibia: Storm - Kavango-East - 18/12/2017,Weather related,Storm,2.0,NA,AF,2402603
+NAM,Namibia,2018,3/12/2018,Namibia: Flood - north-east - 12/03/2018,Weather related,Flood,2.0,NA,AF,2448255
+NAM,Namibia,2018,4/18/2018,Namibia: Flood: Windhoek - 18/04/2018,Weather related,Flood,1.0,NA,AF,2448255
+NAM,Namibia,2018,4/12/2018,Namibia: Flood - 5 regions - 12/04/2018,Weather related,Flood,10.0,NA,AF,2448255
+NAM,Namibia,2019,12/5/2019,Namibia: Flash floods: Oshana (Oshakati) - 05/12/2019,Weather related,Flood,2.0,NA,AF,2494530
+NER,Niger,2013,4/24/2013,Niger Rainy Season Floods,Weather related,Flood,200961.0,NE,AF,18504255
+NER,Niger,2014,7/1/2014,Niger rainy season,Weather related,Flood,47484.0,NE,AF,19240157
+NER,Niger,2015,8/20/2015,Summer floods across Niger,Weather related,Flood,38321.0,NE,AF,20001663
+NER,Niger,2016,7/1/2016,Summer floods - NIGER,Weather related,Flood,46000.0,NE,AF,20788838
+NER,Niger,2017,8/26/2017,Niger: Niamey floods - 31/08/2017,Weather related,Flood,1248.0,NE,AF,21602472
+NER,Niger,2017,6/13/2017,Niamey and Tillabéri Flash Flood,Weather related,Flood,2252.0,NE,AF,21602472
+NER,Niger,2017,6/13/2017,Niger: Flood - rainy season - September 2017,Weather related,Flood,185000.0,NE,AF,21602472
+NER,Niger,2018,7/1/2018,Niger: Floods - 7 states - July,Weather related,Flood,40387.0,NE,AF,22442948
+NER,Niger,2019,6/1/2019,Niger: Floods - Countrywide - 01/06/2019,Weather related,Flood,120935.0,NE,AF,23310715
+NGA,Nigeria,2013,7/15/2013,Floods of the Niger basin,Weather related,Flood,117420.0,NG,AF,171765769
+NGA,Nigeria,2014,1/1/2014,Katsina flood,Weather related,Flood,920.0,NG,AF,176404902
+NGA,Nigeria,2014,8/1/2014,Lugbe floods,Weather related,Flood,276.0,NG,AF,176404902
+NGA,Nigeria,2014,7/26/2014,Sokoto State flood/Kalmalo river overflown,Weather related,Flood,500.0,NG,AF,176404902
+NGA,Nigeria,2014,9/1/2014,Ebonyi river flood,Weather related,Flood,920.0,NG,AF,176404902
+NGA,Nigeria,2014,6/28/2014,Calabar floods,Weather related,Flood,276.0,NG,AF,176404902
+NGA,Nigeria,2014,10/1/2014,Makurdi flood,Weather related,Flood,110.0,NG,AF,176404902
+NGA,Nigeria,2015,9/7/2015,Zamfara state flood,Weather related,Flood,2000.0,NG,AF,181137448
+NGA,Nigeria,2015,8/1/2015,Floods from heavy rain and failure of Dadin Kowa Dam in Gombe State and Kiri Dam in Adamawa State,Weather related,Flood,90860.0,NG,AF,181137448
+NGA,Nigeria,2015,8/11/2015,Floods in the South-eastern and North-western states,Weather related,Flood,2070.0,NG,AF,181137448
+NGA,Nigeria,2015,10/1/2015,Cross River floods,Weather related,Flood,5490.0,NG,AF,181137448
+NGA,Nigeria,2016,6/21/2016,Nasarawa floods,Weather related,Flood,675.0,NG,AF,185960289
+NGA,Nigeria,2016,8/1/2016,North and eastern floods,Weather related,Flood,24759.0,NG,AF,185960289
+NGA,Nigeria,2016,7/21/2016,Sokoto Floods (2nd wave),Weather related,Flood,2633.0,NG,AF,185960289
+NGA,Nigeria,2016,9/20/2016,Jigawa floods,Weather related,Flood,29867.0,NG,AF,185960289
+NGA,Nigeria,2016,7/4/2016,Sokoto Floods (1st wave),Weather related,Flood,234.0,NG,AF,185960289
+NGA,Nigeria,2016,6/12/2016,Ebonyi Floods,Weather related,Flood,5000.0,NG,AF,185960289
+NGA,Nigeria,2016,10/6/2016,Lagos and Ogun Floods,Weather related,Flood,3440.0,NG,AF,185960289
+NGA,Nigeria,2016,8/17/2016,"North, Central and Western floods",Weather related,Flood,10990.0,NG,AF,185960289
+NGA,Nigeria,2016,9/10/2016,Owerri floods,Weather related,Flood,135.0,NG,AF,185960289
+NGA,Nigeria,2017,9/7/2017,Nigeria: Flood - Kogi State - September 2017,Weather related,Flood,10000.0,NG,AF,190873311
+NGA,Nigeria,2017,5/26/2017,"Jere, Kaga, Konduga and Maiduguri Metropolitan Council IDPs Sites Storms",Weather related,Storm,2006.0,NG,AF,190873311
+NGA,Nigeria,2017,8/31/2017,Nigeria: Flood - Benue - August 2017,Weather related,Flood,110000.0,NG,AF,190873311
+NGA,Nigeria,2018,5/8/2018,Nigeria: Rainstorm - Doma - 08/05/2018,Weather related,Storm,3080.0,NG,AF,195874740
+NGA,Nigeria,2018,5/22/2018,Nigeria: Windstorm - Jere (Borno State) - May 2018,Weather related,Storm,3000.0,NG,AF,195874740
+NGA,Nigeria,2018,5/17/2018,Nigeria: Rainstorm (Katsina State) - 17/05/2018,Weather related,Storm,2000.0,NG,AF,195874740
+NGA,Nigeria,2018,8/31/2018,Nigeria: Flood - 12 states - 31/08/2018,Weather related,Flood,600000.0,NG,AF,195874740
+NGA,Nigeria,2018,5/3/2018,Nigeria: Windstorm - Jigawa State - 03/06/2018,Weather related,Storm,132.0,NG,AF,195874740
+NGA,Nigeria,2018,7/13/2018,Nigeria: Flood - Katsina; Ogun - 13/07/2018,Weather related,Flood,4896.0,NG,AF,195874740
+NGA,Nigeria,2018,3/17/2018,Nigeria: Rainstorm - Kwara State - 17/03/2018,Weather related,Storm,200.0,NG,AF,195874740
+NGA,Nigeria,2019,8/1/2019,Nigeria : Flood - Yobe (Geidam LGA) - AUGUST RAINY SEASON - 01/08/2019,Weather related,Flood,2802.0,NG,AF,200963599
+NGA,Nigeria,2019,9/1/2019,Nigeria: Flood - Ondo - SEPTEMBER RAINY SEASON - 01/09/2019,Weather related,Flood,500.0,NG,AF,200963599
+NGA,Nigeria,2019,7/1/2019,Nigeria: Flood  - Kebbi - JULY RAINY SEASON - 01/07/2019,Weather related,Flood,173.0,NG,AF,200963599
+NGA,Nigeria,2019,11/7/2019,"Nigeria: Flood - NOVEMBER RAINY SEASON -  Borno, Adamawa - 07/11/2019",Weather related,Flood,19000.0,NG,AF,200963599
+NGA,Nigeria,2019,8/17/2019,Nigeria: Flood - Niger - AUGUST AND SEPTEMBER RAINY SEASON  - 17/08/2019,Weather related,Flood,11513.0,NG,AF,200963599
+NGA,Nigeria,2019,10/26/2019,Nigeria: Flood - Adamawa - OCTOBER RAINY SEASON - 26/10/2019,Weather related,Flood,12092.0,NG,AF,200963599
+NGA,Nigeria,2019,7/30/2019,Nigeria: Flood - Adamawa - JULY RAINY SEASON - 30/07/2019,Weather related,Flood,86333.0,NG,AF,200963599
+NGA,Nigeria,2019,5/25/2019,Nigeria: Rainstorm - Jigawa - MAY RAINY SEASON - 25/05/2019,Weather related,Storm,300.0,NG,AF,200963599
+NGA,Nigeria,2019,5/2/2019,Nigeria: Rainstorm - Borno - MAY RAINY SEASON - 02/05/2019,Weather related,Storm,1692.0,NG,AF,200963599
+NGA,Nigeria,2019,5/20/2019,Nigeria: Floods - Lagos - MAY RAINY SEASON - 20/05/2019,Weather related,Flood,9.0,NG,AF,200963599
+NGA,Nigeria,2019,8/2/2019,Nigeria: Flood - Imo - AUGUST RAINY SEASON - 02/08/2019,Weather related,Flood,6000.0,NG,AF,200963599
+NGA,Nigeria,2019,8/18/2019,Nigeria: Flood - Federal Capital Territory - AUGUST RAINY SEASON - 18/08/2019,Weather related,Flood,43.0,NG,AF,200963599
+NGA,Nigeria,2019,8/9/2019,Nigeria: Flood - Bauchi - AUGUST RAINY SEASON - 09/08/2019,Weather related,Flood,150.0,NG,AF,200963599
+NGA,Nigeria,2019,7/14/2019,Nigeria: Flood - Anambra - JULY RAINY SEASON - 14/07/2019,Weather related,Flood,2000.0,NG,AF,200963599
+NGA,Nigeria,2019,7/3/2019,Nigeria: Flood - Cross River - JULY RAINY SEASON - 03/07/2019,Weather related,Flood,400.0,NG,AF,200963599
+NGA,Nigeria,2019,7/8/2019,Nigeria: Flood - Jigawa - JULY RAINY SEASON - 08/07/2019,Weather related,Flood,216.0,NG,AF,200963599
+NGA,Nigeria,2019,8/1/2019,Nigeria: Flood - Borno - AUGUST RAINY SEASON - 01/08/2019,Weather related,Flood,7300.0,NG,AF,200963599
+NGA,Nigeria,2019,8/8/2019,Nigeria: Flood - Yobe (Fika LGA) - AUGUST RAINY SEASON - 08/08/2019,Weather related,Flood,1295.0,NG,AF,200963599
+NGA,Nigeria,2019,9/21/2019,"Nigeria: Flood - Cross River, Niger, Taraba - SEPTEMBER RAINY SEASON - 21/09/2019",Weather related,Flood,4485.0,NG,AF,200963599
+NGA,Nigeria,2019,8/18/2019,Nigeria: Flood - Jigawa - AUGUST RAINY SEASON  - 18/08/2019,Weather related,Flood,700.0,NG,AF,200963599
+RWA,Rwanda,2013,4/1/2013,Nyabihu flood,Weather related,Flood,180.0,RW,AF,10811543
+RWA,Rwanda,2013,2/7/2013,Kirehe district storm,Weather related,Storm,731.0,RW,AF,10811543
+RWA,Rwanda,2015,9/4/2015,Thunderstorm in the Western and Northern provinces,Weather related,Storm,210.0,RW,AF,11369071
+RWA,Rwanda,2015,4/3/2015,Western province flash flood,Weather related,Flood,1789.0,RW,AF,11369071
+RWA,Rwanda,2016,5/7/2016,"Northern, Western and Southern Landslides",Geophysical,Dry mass movement,9731.0,RW,AF,11668818
+RWA,Rwanda,2017,8/1/2017,Rwanda: Storm - Eastern districts - August 2017,Weather related,Storm,1181.0,RW,AF,11980937
+RWA,Rwanda,2017,5/1/2017,Rwanda: Landslides - May 2017,Weather related,Wet mass movement,5.0,RW,AF,11980937
+RWA,Rwanda,2017,3/1/2017,Rwanda: Storm - March 2017,Weather related,Storm,69.0,RW,AF,11980937
+RWA,Rwanda,2017,10/5/2017,Rwanda: Storm - Bugesera; Gicumbi; Huye; Kirehe; Ngoma; Nyabihu; Nyamasheke; Rubavu; Rusizi - 17/09/2017,Weather related,Storm,2624.0,RW,AF,11980937
+RWA,Rwanda,2017,5/1/2017,Rwanda: Storm - May 2017,Weather related,Storm,56.0,RW,AF,11980937
+RWA,Rwanda,2017,2/1/2017,Rwanda: Storm - Rusizi - February 2017,Weather related,Storm,40.0,RW,AF,11980937
+RWA,Rwanda,2017,7/1/2017,Rwanda: Storm - July 2017,Weather related,Storm,29.0,RW,AF,11980937
+RWA,Rwanda,2017,4/1/2017,Rwanda: Storm - Gatsibo - 01/04/2017,Weather related,Storm,675.0,RW,AF,11980937
+RWA,Rwanda,2017,5/1/2017,Rwanda: Flood - May 2017,Weather related,Flood,19.0,RW,AF,11980937
+RWA,Rwanda,2017,10/18/2017,Rwanda: Storm - Kamonyi; Kamiranzovu; Rwabashasha - October 2017,Weather related,Storm,90.0,RW,AF,11980937
+RWA,Rwanda,2017,1/1/2017,Rwanda: Storm - Nyarugenge; Kicukiro; Kamonyi; Rusizi; Muhanga - 01/01/2017,Weather related,Storm,200.0,RW,AF,11980937
+RWA,Rwanda,2018,1/1/2018,Rwanda: Rainy season - January - 2018,Weather related,Storm,47295.0,RW,AF,12301939
+RWA,Rwanda,2019,12/12/2019,Rwanda: Preventative displacement for torrential rain- Countrywide- 12/12/2019,Weather related,Flood,6000.0,RW,AF,12626950
+RWA,Rwanda,2019,12/4/2019,Rwanda: Landslides- Musanze District- 04/12/2019,Weather related,Wet mass movement,56.0,RW,AF,12626950
+RWA,Rwanda,2019,12/25/2019,Rwanda: Torrential rain- Countrywide- 25/12/2019,Weather related,Flood,454.0,RW,AF,12626950
+RWA,Rwanda,2019,3/10/2019,Rwanda: Storm - Eastern province - 10/03/2018,Weather related,Storm,5021.0,RW,AF,12626950
+SDN,Sudan,2011,8/1/2011,Annual Floods,Weather related,Flood,18804.0,SD,AF,35349681
+SDN,Sudan,2013,8/1/2013,Sudan Rainy Season Floods,Weather related,Flood,283646.0,SD,AF,37072550
+SDN,Sudan,2014,7/25/2014,Severe floods in Sudan (July),Weather related,Flood,33000.0,SD,AF,37977655
+SDN,Sudan,2014,8/10/2014,Sudan rainy season flooding,Weather related,Flood,154000.0,SD,AF,37977655
+SDN,Sudan,2015,7/16/2015,Kalma floods,Weather related,Flood,4736.0,SD,AF,38902950
+SDN,Sudan,2015,8/2/2015,Floods in Darfur refugee camps,Weather related,Flood,3575.0,SD,AF,38902950
+SDN,Sudan,2016,6/1/2016,Country-wide flash floods,Weather related,Flood,122738.0,SD,AF,39847440
+SDN,Sudan,2017,6/1/2017,Sudan: Floods - June 2017,Weather related,Flood,51330.0,SD,AF,40813396
+SDN,Sudan,2017,12/14/2017,Sudan: Flood - Merowe - 14/12/2017,Weather related,Flood,2750.0,SD,AF,40813396
+SDN,Sudan,2018,5/7/2018,Sudan: Flood - 14 states - 07/05/2018,Weather related,Flood,120756.0,SD,AF,41801533
+SDN,Sudan,2019,5/1/2019,Sudan: Floods - 16 states - 01/05/2019,Weather related,Flood,272443.0,SD,AF,42813238
+SLE,Sierra Leone,2013,4/9/2013,Storm,Weather related,Storm,6180.0,SL,AF,6863980
+SLE,Sierra Leone,2013,1/2/2013,Harmatten Wildfires,Weather related,Wildfire,2257.0,SL,AF,6863980
+SLE,Sierra Leone,2017,8/14/2017,Sierra Leone: Landslide - Freetown - 14/08/2017,Weather related,Wet mass movement,11816.0,SL,AF,7488431
+SLE,Sierra Leone,2019,8/2/2019,Sierra Leone: Flood - Freetown - 02/08/2019,Weather related,Flood,5318.0,SL,AF,7813215
+SOM,Somalia,2013,11/10/2013,Somalia Cyclone,Weather related,Storm,4700.0,SO,AF,13063706
+SOM,Somalia,2013,8/1/2013,August Flooding Somalia,Weather related,Flood,4800.0,SO,AF,13063706
+SOM,Somalia,2013,3/15/2013,April Flooding Somalia,Weather related,Flood,50000.0,SO,AF,13063706
+SOM,Somalia,2014,5/1/2014,Middle Shabelle region flood,Weather related,Flood,1175.0,SO,AF,13423576
+SOM,Somalia,2014,5/24/2014,Lower Juba flood,Weather related,Flood,6000.0,SO,AF,13423576
+SOM,Somalia,2014,4/1/2014,Gedo region flood,Weather related,Flood,7050.0,SO,AF,13423576
+SOM,Somalia,2014,10/24/2014,Shabelle river floods,Weather related,Flood,21000.0,SO,AF,13423576
+SOM,Somalia,2014,10/9/2014,Berbera flash floods,Weather related,Flood,840.0,SO,AF,13423576
+SOM,Somalia,2015,3/1/2015,Mudug flood,Weather related,Flood,4700.0,SO,AF,13797201
+SOM,Somalia,2015,11/9/2015,Cyclone Megh,Weather related,Storm,2700.0,SO,AF,13797201
+SOM,Somalia,2015,5/1/2015,Mudug and Lower Juba floods,Weather related,Flood,2350.0,SO,AF,13797201
+SOM,Somalia,2015,5/1/2015,Shabeellaha Dhexe floods,Weather related,Flood,6815.0,SO,AF,13797201
+SOM,Somalia,2015,11/2/2015,Cyclone Chapala,Weather related,Storm,820.0,SO,AF,13797201
+SOM,Somalia,2015,10/19/2015,Shabelle basin flood,Weather related,Flood,41500.0,SO,AF,13797201
+SOM,Somalia,2016,5/1/2016,Belet Weyne floods,Weather related,Flood,70000.0,SO,AF,14185613
+SOM,Somalia,2017,5/1/2017,Somalia: Flood - Middle Shabelle - 01/05/2017,Weather related,Flood,4129.0,SO,AF,14589119
+SOM,Somalia,2017,1/1/2017,Somalia: Drought - 01/01/2017,Weather related,Drought,891857.0,SO,AF,14589119
+SOM,Somalia,2017,9/2/2017,Somalia: Wildfire - Togdheer - 02/09/2017,Weather related,Wildfire,414.0,SO,AF,14589119
+SOM,Somalia,2017,5/1/2017,Somalia: Flood - Bakool - 01/05/2017,Weather related,Flood,100.0,SO,AF,14589119
+SOM,Somalia,2017,11/1/2017,"Somalia: Flood - Middle Juba, Lower Juba - 01/11/2017",Weather related,Flood,2602.0,SO,AF,14589119
+SOM,Somalia,2017,5/1/2017,Somalia: Flood - Woqooyi Galbeed - 01/05/2017,Weather related,Flood,10.0,SO,AF,14589119
+SOM,Somalia,2017,11/1/2017,Somalia: Flood - Banadir - 01/11/2017,Weather related,Flood,20.0,SO,AF,14589119
+SOM,Somalia,2017,7/24/2017,Somalia: Flood - Bari - 24/07/2017,Weather related,Flood,200.0,SO,AF,14589119
+SOM,Somalia,2018,4/15/2018,Somalia: Flood - 9 regions - 15/04/2018,Weather related,Flood,289176.0,SO,AF,15008154
+SOM,Somalia,2018,5/19/2018,"Djibouti, Ethiopia, Somalia, Yemen: Tropical Cyclone Sagar - 19/05/2018",Weather related,Storm,8876.0,SO,AF,15008154
+SOM,Somalia,2018,6/26/2018,Somalia: Storm - Woqooyi Galbeed - 26/06/2018,Weather related,Storm,240.0,SO,AF,15008154
+SOM,Somalia,2018,1/1/2018,Somalia: Drought - 01/01/2018,Weather related,Drought,248509.0,SO,AF,15008154
+SOM,Somalia,2019,4/1/2019,Somalia: Flood (Deyr rains)  - 12 states - 01/04/2019,Weather related,Flood,8995.0,SO,AF,15442905
+SOM,Somalia,2019,9/2/2019,Somalia: Flood - Lower Juba; Woqooyi Galbeed - 02/09/2019,Weather related,Flood,73.0,SO,AF,15442905
+SOM,Somalia,2019,1/1/2019,Somalia: Drought 2019,Weather related,Drought,59645.0,SO,AF,15442905
+SOM,Somalia,2019,8/18/2019,Somalia: Flood - Bari - 18/08/2019,Weather related,Flood,9.0,SO,AF,15442905
+SOM,Somalia,2019,5/19/2018,"Djibouti, Ethiopia, Somalia, Yemen: Tropical Cyclone Sagar - 19/05/2018",Weather related,Storm,4175.0,SO,AF,15442905
+SOM,Somalia,2019,10/1/2019,Somalia: Flood (Gu rains) - 15 regions - 01/10/2019,Weather related,Flood,406586.0,SO,AF,15442905
+SSD,South Sudan,2013,11/1/2013,November Floods,Weather related,Flood,15783.0,SS,AF,10355036
+SSD,South Sudan,2013,7/1/2013,July-September Floods,Weather related,Flood,100000.0,SS,AF,10355036
+SSD,South Sudan,2014,10/5/2014,South Sudan seasonsal floods,Weather related,Flood,24841.0,SS,AF,10554883
+SSD,South Sudan,2014,7/25/2014,Severe floods in Unity state (July),Weather related,Flood,42000.0,SS,AF,10554883
+SSD,South Sudan,2014,3/7/2014,U.N. Tomping Displacement Camp,Weather related,Storm,8000.0,SS,AF,10554883
+SSD,South Sudan,2014,10/14/2014,Floods in Bor (Jonglei State),Weather related,Flood,4500.0,SS,AF,10554883
+SSD,South Sudan,2014,9/21/2014,Flooding occurring across South sudan territory,Weather related,Flood,3000.0,SS,AF,10554883
+SSD,South Sudan,2014,9/20/2014,Severe floods in Warrap state,Weather related,Flood,30000.0,SS,AF,10554883
+SSD,South Sudan,2015,9/1/2015,Jonglei state flood,Weather related,Flood,15000.0,SS,AF,10715658
+SSD,South Sudan,2017,8/1/2017,South Sudan: Flood - Boma - 01/08/2017,Weather related,Flood,71745.0,SS,AF,10910759
+SSD,South Sudan,2017,9/11/2017,South Sudan: Flood - Bor - 11/09/2017,Weather related,Flood,980.0,SS,AF,10910759
+SSD,South Sudan,2017,9/15/2017,"South Sudan: Flood - Upper Nile, Northern Bahr el Ghazal, Eastern Equatoria, Western Equatoria - 15/09/2017",Weather related,Flood,2000.0,SS,AF,10910759
+SSD,South Sudan,2018,6/3/2018,South Sudan: Storm - Unity - 03/06/2018,Weather related,Storm,200.0,SS,AF,10975920
+SSD,South Sudan,2018,8/1/2018,South Sudan: Flood - Upper Nile - 01/08/2018,Weather related,Flood,500.0,SS,AF,10975920
+SSD,South Sudan,2018,8/10/2018,South Sudan: Flood - Juba - 10/08/2018,Weather related,Flood,2.0,SS,AF,10975920
+SSD,South Sudan,2018,9/1/2018,South Sudan: Flood - Northern Bahr el Ghazal - 01/09/2018,Weather related,Flood,2000.0,SS,AF,10975920
+SSD,South Sudan,2018,5/3/2018,South Sudan: Flood - Jonglei - 03/05/2018,Weather related,Flood,2240.0,SS,AF,10975920
+SSD,South Sudan,2018,8/22/2018,South Sudan: Flood - Warrap - 22/08/2018,Weather related,Flood,1680.0,SS,AF,10975920
+SSD,South Sudan,2019,5/5/2019,South Sudan: Wildfire - Western Bahr el Ghazal - 05/05/2019,Weather related,Wildfire,660.0,SS,AF,11062113
+SSD,South Sudan,2019,9/1/2019,South Sudan: Drought - Lakes - 01/09/2019,Weather related,Drought,5000.0,SS,AF,11062113
+SSD,South Sudan,2019,5/1/2019,South Sudan: Flood - Jonglei (Bieh - Akobo) - 26/06/2019,Weather related,Flood,14053.0,SS,AF,11062113
+SSD,South Sudan,2019,6/10/2019,South Sudan: Floods - Eastern Equatoria - 10/06/2019,Weather related,Flood,10.0,SS,AF,11062113
+SSD,South Sudan,2019,6/5/2019,South Sudan: Flood - Northern Bahr el Ghazal - 05/06/2019,Weather related,Flood,28700.0,SS,AF,11062113
+SSD,South Sudan,2019,5/20/2019,South Sudan: Flood - Juba - 20/05/2019,Weather related,Flood,10.0,SS,AF,11062113
+SSD,South Sudan,2019,7/1/2019,South Sudan: Flood - 7 states - 01/07/2019,Weather related,Flood,245586.0,SS,AF,11062113
+SSD,South Sudan,2019,2/3/2019,South Sudan: Wildfire - Eastern Equatoria - 03/02/2019,Weather related,Wildfire,306.0,SS,AF,11062113
+SWZ,Eswatini,2018,4/19/2018,Swaziland: Storm - Ludzeludze - 19/04/2018,Weather related,Storm,7.0,SZ,AF,1136191
+SWZ,Eswatini,2018,3/20/2018,Swaziland: Storm - Elangeni - 20/03/2018,Weather related,Storm,13.0,SZ,AF,1136191
+SWZ,Eswatini,2018,2/14/2018,Swaziland: Storm -  Shiselweni - 14/02/2018,Weather related,Storm,6.0,SZ,AF,1136191
+SWZ,Eswatini,2018,3/28/2018,Swaziland: Storm - Ntfonjeni - 28/03/2018,Weather related,Storm,2.0,SZ,AF,1136191
+SWZ,Eswatini,2018,5/27/2018,Swaziland: Tornado - Nkhaba - 27/05/2018,Weather related,Storm,24.0,SZ,AF,1136191
+SWZ,Eswatini,2018,2/22/2018,Swaziland: Storm - Ntfonjeni - 22/02/2018,Weather related,Storm,4.0,SZ,AF,1136191
+SWZ,Eswatini,2018,1/8/2018,Swaziland: Storm - Manzini - 08/01/2018,Weather related,Storm,45.0,SZ,AF,1136191
+SWZ,Eswatini,2018,9/7/2018,eSwatini: Hailstorm - 07/09/2018,Weather related,Storm,10.0,SZ,AF,1136191
+SYC,Seychelles,2014,1/24/2014,Seychelles flood,Weather related,Flood,7.0,SC,AF,91359
+SYC,Seychelles,2016,4/18/2016,Tropical Cyclone Fantala,Weather related,Storm,20.0,SC,AF,94677
+TCD,Chad,2013,8/15/2013,camp Mile flood,Weather related,Flood,10618.0,TD,AF,13220424
+TCD,Chad,2013,8/15/2013,August Floods,Weather related,Flood,77581.0,TD,AF,13220424
+TCD,Chad,2014,8/14/2014,Flooding in the Salamat region,Weather related,Flood,1016.0,TD,AF,13663559
+TCD,Chad,2014,5/25/2014,Zafaye temporary camp flooding,Weather related,Flood,8872.0,TD,AF,13663559
+TCD,Chad,2016,5/1/2016,Rainy season floods,Weather related,Storm,5650.0,TD,AF,14561666
+TCD,Chad,2018,8/13/2018,Chad: Flash flood - Bourkou-Yala - 13/08/2018,Weather related,Flood,2000.0,TD,AF,15477751
+TCD,Chad,2019,8/15/2019,Chad: Flood - Sila - 15/08/2019,Weather related,Flood,2157.0,TD,AF,15946876
+TCD,Chad,2019,8/1/2019,Chad: Flood - Salamat - 01/08/2019,Weather related,Flood,13699.0,TD,AF,15946876
+TCD,Chad,2019,10/1/2019,Chad: Flood - Ouaddai - October 2019,Weather related,Flood,1275.0,TD,AF,15946876
+TCD,Chad,2019,8/19/2019,Chad: Flood - Ennedi Ouest - 19/08/2019,Weather related,Flood,2361.0,TD,AF,15946876
+TCD,Chad,2019,8/1/2019,Chad: Flood - Mayo Kebbi - August to November 2019,Weather related,Flood,10623.0,TD,AF,15946876
+TCD,Chad,2019,9/23/2019,Chad: Floods - Moyen Chari - 23/09/2019,Weather related,Flood,271.0,TD,AF,15946876
+TGO,Togo,2015,6/2/2015,Lome floods,Weather related,Flood,5000.0,TG,AF,7323158
+TGO,Togo,2017,6/18/2017,Togo: Flood - Lome - 18/06/2017,Weather related,Flood,50.0,TG,AF,7698475
+TUN,Tunisia,2013,10/18/2013,Monastir earthquake,Geophysical,Earthquake,6.0,TN,AF,10952951
+TUN,Tunisia,2015,2/27/2015,Jendouba flood,Weather related,Flood,120.0,TN,AF,11179949
+TUN,Tunisia,2017,7/31/2017,"Tunisia: forest fires - Jendouba, Béja, Bizerte - 31/07/2017",Weather related,Wildfire,992.0,TN,AF,11433443
+TUN,Tunisia,2018,8/24/2018,Tunisia: Flood - Bizerte - 24/08/2018,Weather related,Flood,42.0,TN,AF,11565204
+TUN,Tunisia,2018,10/17/2018,Tunisia: Flood - Manouba - 17/10/2018,Weather related,Flood,26.0,TN,AF,11565204
+TUN,Tunisia,2018,9/22/2018,Tunisia: Storm - Nabeul - 22/09/2018,Weather related,Flood,3280.0,TN,AF,11565204
+TUN,Tunisia,2019,2/4/2019,Tunisia: Winter storm - Kasserine - 04/02/2019,Weather related,Storm,12.0,TN,AF,11694719
+TUN,Tunisia,2019,2/6/2019,Tunisia: Flood - Jerif - 06/02/2019,Weather related,Flood,20.0,TN,AF,11694719
+TZA,Tanzania,2014,2/6/2014,Tanga flash floods,Weather related,Flood,400.0,TZ,AF,49959822
+TZA,Tanzania,2014,4/5/2014,Buboka flash flood,Weather related,Flood,250.0,TZ,AF,49959822
+TZA,Tanzania,2014,1/21/2014,Dumila/Dakawa flash floods,Weather related,Flood,10000.0,TZ,AF,49959822
+TZA,Tanzania,2014,3/15/2014,Arusha flood,Weather related,Flood,1000.0,TZ,AF,49959822
+TZA,Tanzania,2014,4/11/2014,Dar Es Salaam flood,Weather related,Flood,2000.0,TZ,AF,49959822
+TZA,Tanzania,2015,3/3/2015,Shinyanga region hailstorm,Weather related,Storm,3500.0,TZ,AF,51482633
+TZA,Tanzania,2016,4/1/2016,"Floods in northeastern, southwestern and central regions",Weather related,Flood,17000.0,TZ,AF,53050790
+TZA,Tanzania,2016,2/7/2016,Country-wide floods,Weather related,Flood,7410.0,TZ,AF,53050790
+TZA,Tanzania,2016,9/10/2016,Kagera Region Earthquake,Geophysical,Earthquake,10153.0,TZ,AF,53050790
+TZA,Tanzania,2016,1/17/2016,Dodoma Region floods,Weather related,Flood,1379.0,TZ,AF,53050790
+TZA,Tanzania,2017,4/7/2017,Tanzania: Flash flood - Musoma - 07/04/2017,Weather related,Flood,150.0,TZ,AF,54663906
+TZA,Tanzania,2017,5/14/2017,Tanzania: Storm - Tanga - May 2017,Weather related,Storm,200.0,TZ,AF,54663906
+TZA,Tanzania,2017,3/10/2017,Tanzania: Storm - Lindi - 10/03/2017,Weather related,Storm,1225.0,TZ,AF,54663906
+TZA,Tanzania,2017,10/25/2017,Tanzania: Floods - Dar Es Salaam - 25/10/2017,Weather related,Flood,343.0,TZ,AF,54663906
+TZA,Tanzania,2018,1/17/2018,Tanzania: Flood - Morogoro; Kilosa - 17/01/2018,Weather related,Flood,6300.0,TZ,AF,56318348
+TZA,Tanzania,2018,4/12/2018,Tanzania: Flood - Dar es Salaam; Arusha; Zanzibar; Kilimanjaro; Tanga; Manyara; Tabora; Pwani; Mwanza; Morogoro; Dodoma; Mbeya; Rukwa; Mtwara; Shinyanga; Geita - 12/04/2018,Weather related,Flood,13923.0,TZ,AF,56318348
+TZA,Tanzania,2018,1/9/2018,Tanzania: Storm - Dodoma - 09/01/2018,Weather related,Storm,2563.0,TZ,AF,56318348
+TZA,Tanzania,2018,5/30/2018,Tanzania: Flood - Marwa; Ruvu Mferejini; Ruvu Jiungeni; Kilimanjaro Region - 30/05/2018,Weather related,Flood,5700.0,TZ,AF,56318348
+TZA,Tanzania,2018,5/6/2018,Tanzania: Flood - Kilimanjaro - 06/05/2018,Weather related,Flood,720.0,TZ,AF,56318348
+TZA,Tanzania,2019,3/21/2019,Tanzania: Earthquake -  Lake Rukwa - 21/03/2019,Geophysical,Earthquake,19.0,TZ,AF,58005463
+TZA,Tanzania,2019,4/23/2019,"Mozambique, Comoros, Tanzania, Mayotte: Cyclone Kenneth - 23/04/2019",Weather related,Storm,1000.0,TZ,AF,58005463
+TZA,Tanzania,2019,12/26/2019,Tanzania: Floods- Morongoro- 26/12/2019,Weather related,Flood,957.0,TZ,AF,58005463
+TZA,Tanzania,2019,5/8/2019,Tanzania: Flood - Dar es Salaam - 08/05/2019,Weather related,Flood,5812.0,TZ,AF,58005463
+TZA,Tanzania,2019,10/21/2019,Tanzania: Floods- Tanga- 21/10/2019,Weather related,Flood,10.0,TZ,AF,58005463
+TZA,Tanzania,2019,10/1/2019,Tanzania: Floods- Tanga- 01/10/2019,Weather related,Flood,1435.0,TZ,AF,58005463
+TZA,Tanzania,2019,3/6/2019,Tanzania: Hailstorm- Same- (Kilimanjaro Region)- 06/03/2019,Weather related,Storm,445.0,TZ,AF,58005463
+TZA,Tanzania,2019,3/8/2019,Tanzania: Rainstorm- Morogoro (Morogoro Region)- 08/03/2019,Weather related,Flood,1081.0,TZ,AF,58005463
+UGA,Uganda,2013,5/1/2013,Uganda river bank flooding,Weather related,Flood,30219.0,UG,AF,35695246
+UGA,Uganda,2014,4/1/2014,Namutumba hailstorm,Weather related,Storm,769.0,UG,AF,36912148
+UGA,Uganda,2014,8/23/2014,Eastern territories floods,Weather related,Flood,30000.0,UG,AF,36912148
+UGA,Uganda,2014,4/1/2014,Butaleja hailstorm,Weather related,Storm,186.0,UG,AF,36912148
+UGA,Uganda,2014,3/11/2014,Mbale flood,Weather related,Flood,1078.0,UG,AF,36912148
+UGA,Uganda,2014,3/1/2014,Jinja hailstorm,Weather related,Storm,1470.0,UG,AF,36912148
+UGA,Uganda,2014,5/8/2014,Kasese district flood,Weather related,Flood,603.0,UG,AF,36912148
+UGA,Uganda,2014,11/6/2014,River Semliki flood,Weather related,Flood,16000.0,UG,AF,36912148
+UGA,Uganda,2015,11/26/2015,Rwenzori region floods and landslides,Weather related,Flood,600.0,UG,AF,38225453
+UGA,Uganda,2016,9/10/2016,Earthquake in Rakai district,Geophysical,Earthquake,1147.0,UG,AF,39647506
+UGA,Uganda,2016,3/1/2016,Rainy season floods,Weather related,Flood,1347.0,UG,AF,39647506
+UGA,Uganda,2017,7/28/2017,Uganda: Flood - Kasese - 29/07/2017,Weather related,Flood,1500.0,UG,AF,41162465
+UGA,Uganda,2017,2/24/2017,Uganda: Flood - Kamuli - 24/02/2017,Weather related,Storm,3500.0,UG,AF,41162465
+UGA,Uganda,2017,1/18/2017,Uganda: Wildfire - Lamwo - 18/01/2017,Weather related,Wildfire,70.0,UG,AF,41162465
+UGA,Uganda,2017,8/15/2017,Uganda: Floods - 14 districts - August,Weather related,Flood,90000.0,UG,AF,41162465
+UGA,Uganda,2018,7/9/2018,Uganda: Storm - 32 districts - 09/07/2018,Weather related,Storm,980.0,UG,AF,42723139
+UGA,Uganda,2018,3/14/2018,Uganda: Flood - Mbarara - 14/03/2018,Weather related,Flood,2.0,UG,AF,42723139
+UGA,Uganda,2018,5/19/2018,Uganda: Flood - Bulambuli - 19/05/2018,Weather related,Flood,10.0,UG,AF,42723139
+UGA,Uganda,2018,5/23/2018,Uganda: Landslides - Namisindwa - 23/05/2018,Weather related,Wet mass movement,1470.0,UG,AF,42723139
+UGA,Uganda,2018,4/27/2018,Uganda: Landslides - Bududa - 27/04/2018,Weather related,Wet mass movement,2000.0,UG,AF,42723139
+UGA,Uganda,2018,2/21/2018,Uganda: Storm - Soroti - 21/02/2018,Weather related,Storm,196.0,UG,AF,42723139
+UGA,Uganda,2018,10/27/2018,Uganda: Flood - Kasese - 27/10/2018,Weather related,Flood,8000.0,UG,AF,42723139
+UGA,Uganda,2018,4/21/2018,Uganda: Storm - Nakaseke - 21/04/2018,Weather related,Storm,221.0,UG,AF,42723139
+UGA,Uganda,2018,9/15/2018,Uganda: Storms - Bugiri - 15/09/2018,Weather related,Storm,49.0,UG,AF,42723139
+UGA,Uganda,2018,5/1/2018,Uganda: Flood - 20 districts - 01/05/2018,Weather related,Flood,150000.0,UG,AF,42723139
+UGA,Uganda,2018,9/18/2018,Uganda: Flood -  Kapelebyong - 18/09/2018,Weather related,Flood,200.0,UG,AF,42723139
+UGA,Uganda,2018,10/11/2018,Landslide: Uganda - Bududa - 11/10/2018,Weather related,Wet mass movement,1162.0,UG,AF,42723139
+UGA,Uganda,2018,5/16/2018,Uganda: Lanslides - Manafwa - 16/05/2018,Weather related,Wet mass movement,200.0,UG,AF,42723139
+UGA,Uganda,2019,3/30/2019,Uganda: Storm - Budaka - 30/03/2019,Weather related,Storm,343.0,UG,AF,44269594
+UGA,Uganda,2019,5/1/2019,Uganda: Flood - Butaleja - 01/05/2019,Weather related,Flood,740.0,UG,AF,44269594
+UGA,Uganda,2019,9/1/2019,Uganda: Flood - Eastern Uganda - 01/09/2019,Weather related,Flood,25000.0,UG,AF,44269594
+UGA,Uganda,2019,3/7/2019,Uganda: Storm - Kaliro - 07/03/2019,Weather related,Storm,211.0,UG,AF,44269594
+UGA,Uganda,2019,7/21/2019,Uganda: Flood - Bundibugyo - 21/07/2019,Weather related,Flood,108.0,UG,AF,44269594
+UGA,Uganda,2019,9/22/2019,Uganda: Flood - Namutumba - 22/09/2019,Weather related,Flood,2450.0,UG,AF,44269594
+UGA,Uganda,2019,6/5/2019,Uganda: Flood - Butaleja - 05/06/2019,Weather related,Flood,593.0,UG,AF,44269594
+UGA,Uganda,2019,7/27/2019,Uganda: Flood - Bundibugyo - 27/07/2019,Weather related,Flood,980.0,UG,AF,44269594
+UGA,Uganda,2019,5/26/2019,Uganda: Flash flood - Kampala - 26/05/2019,Weather related,Flood,98.0,UG,AF,44269594
+UGA,Uganda,2019,12/2/2019,Uganda: flood - Teso; Bukedi sub-regions - 02/12/2019,Weather related,Flood,55000.0,UG,AF,44269594
+UGA,Uganda,2019,12/12/2019,Uganda: Flood - Buyende - 12/12/2019,Weather related,Flood,2.0,UG,AF,44269594
+UGA,Uganda,2019,6/10/2019,Uganda: Landslide - Kasese - 10/06/2019,Weather related,Wet mass movement,100.0,UG,AF,44269594
+UGA,Uganda,2019,4/23/2019,Uganda; Kenya: Flood - 23/04/2019,Weather related,Flood,900.0,UG,AF,44269594
+UGA,Uganda,2019,6/4/2019,Uganda: Flood - Sironko - 04/06/2019,Weather related,Flood,426.0,UG,AF,44269594
+UGA,Uganda,2019,2/23/2019,Uganda: Storm - Buikwe - 23/02/2019,Weather related,Storm,980.0,UG,AF,44269594
+UGA,Uganda,2019,12/2/2019,Uganda: landslide - Bulambuli - 02/12/2019,Weather related,Wet mass movement,1470.0,UG,AF,44269594
+UGA,Uganda,2019,9/1/2019,Uganda: Flood - Western Uganda - 01/09/2019,Weather related,Flood,40000.0,UG,AF,44269594
+UGA,Uganda,2019,6/4/2019,Uganda: Landslide - Bududa - 04/06/2019,Weather related,Wet mass movement,392.0,UG,AF,44269594
+UGA,Uganda,2019,8/29/2019,Uganda: Landslide - Bulambuli - 29/08/2019,Weather related,Wet mass movement,490.0,UG,AF,44269594
+ZAF,South Africa,2014,3/1/2014,North-east South Africa floods,Weather related,Flood,3525.0,ZA,AF,54545991
+ZAF,South Africa,2015,3/2/2015,Cape Town suburbs fire,Weather related,Wildfire,14.0,ZA,AF,55386367
+ZAF,South Africa,2016,7/25/2016,Floods in Cape Town,Weather related,Flood,9200.0,ZA,AF,56203654
+ZAF,South Africa,2016,11/9/2016,Floods in Gauteng and Ekurhuleni,Weather related,Flood,2999.0,ZA,AF,56203654
+ZAF,South Africa,2017,12/9/2017,South Africa: Storm - Gauteng - 09/12/2017,Weather related,Storm,36.0,ZA,AF,57000451
+ZAF,South Africa,2017,6/7/2017,South Africa: Wildfires - Kouga - 07/06/2017,Weather related,Wildfire,250.0,ZA,AF,57000451
+ZAF,South Africa,2017,12/11/2017,South Africa: Storm - Gauteng - 11/12/2017,Weather related,Storm,1500.0,ZA,AF,57000451
+ZAF,South Africa,2017,5/14/2017,South Africa: Floods - KwaZulu-Natal - 14/05/2017,Weather related,Flood,236.0,ZA,AF,57000451
+ZAF,South Africa,2017,10/9/2017,"South Africa: Storm- Kwazuzlu-Natal, Johannesburgh - 09/10/2017",Weather related,Storm,600.0,ZA,AF,57000451
+ZAF,South Africa,2017,2/18/2017,Botswana; Mozambique; South Africa; Zimbabwe: Tropical Cyclone Dineo - 15/02/2017,Weather related,Storm,11.0,ZA,AF,57000451
+ZAF,South Africa,2017,10/10/2017,South Africa: Storm - KwaZulu-Natal - 10/10/2017,Weather related,Storm,7.0,ZA,AF,57000451
+ZAF,South Africa,2017,10/7/2017,South Africa: Storm - Limpopo - 07/10/2017,Weather related,Storm,24.0,ZA,AF,57000451
+ZAF,South Africa,2017,6/6/2017,South Africa: Wildfires - Western Cape - 06/06/2017,Weather related,Wildfire,12000.0,ZA,AF,57000451
+ZAF,South Africa,2018,3/22/2018,South Africa: Storm - Gauteng - 22/03/2018,Weather related,Storm,11.0,ZA,AF,57779622
+ZAF,South Africa,2018,12/31/2018,South Africa: Flooding- Sebokeng (Gauteng)- 31/12/2018,Weather related,Flood,47.0,ZA,AF,57779622
+ZAF,South Africa,2018,10/24/2018,"South Africa: Forest Fires- Western Cape, ""Garden Route""- 24/10/2018",Weather related,Wildfire,2000.0,ZA,AF,57779622
+ZAF,South Africa,2019,11/12/2019,"South Africa: Tornado- Kwa Zulu Natal (Greytown, New Hannover)- 12/11/2019",Weather related,Storm,7.0,ZA,AF,58558270
+ZAF,South Africa,2019,12/24/2019,South Africa: Storm- Kwa Zulu Natal (uBuhlebezwe)- 24/12/2019,Weather related,Storm,119.0,ZA,AF,58558270
+ZAF,South Africa,2019,3/10/2019,South Africa- Floods- Kwa Zulu-Natal-  10/03/2019,Weather related,Flood,7.0,ZA,AF,58558270
+ZAF,South Africa,2019,12/9/2019,South Africa: Floods- Gauteng (Mamelodi)- 09/12/2019,Weather related,Flood,200.0,ZA,AF,58558270
+ZAF,South Africa,2019,1/11/2019,South Africa: Wildfires- Overberg (Western Cape)- 11/01/2019,Weather related,Wildfire,112.0,ZA,AF,58558270
+ZAF,South Africa,2019,4/23/2019,"South Africa- Floods- KwaZulu-Natal, Eastern Cape-  23/04/2019",Weather related,Flood,1300.0,ZA,AF,58558270
+ZMB,Zambia,2013,1/17/2013,Nangoma and Mumbwa Central flood,Weather related,Flood,5511.0,ZM,AF,14926504
+ZMB,Zambia,2014,12/15/2014,Mazabuka flood December,Weather related,Flood,612.0,ZM,AF,15399753
+ZMB,Zambia,2014,3/1/2014,Kaputa flood,Weather related,Flood,1063.0,ZM,AF,15399753
+ZMB,Zambia,2014,2/1/2014,Kitwe flood,Weather related,Flood,306.0,ZM,AF,15399753
+ZMB,Zambia,2014,1/1/2014,Mazabuka flood (January),Weather related,Flood,20154.0,ZM,AF,15399753
+ZMB,Zambia,2014,12/1/2014,Chitukuko flood,Weather related,Flood,510.0,ZM,AF,15399753
+ZMB,Zambia,2014,2/1/2014,Mumbwa flood,Weather related,Flood,3376.0,ZM,AF,15399753
+ZMB,Zambia,2015,12/25/2015,Mkushi storm,Weather related,Storm,25.0,ZM,AF,15879361
+ZMB,Zambia,2017,12/31/2017,Zambia: Storm - North Western - 31/12/2017,Weather related,Storm,196.0,ZM,AF,16853688
+ZMB,Zambia,2017,3/13/2017,"Zambia: Flood - Luangwa, Zambezi - 13/03/2017",Weather related,Flood,49.0,ZM,AF,16853688
+ZMB,Zambia,2017,11/16/2017,Zambia: Flood - Chilubi Island - 16/11/2017,Weather related,Flood,5.0,ZM,AF,16853688
+ZMB,Zambia,2017,2/24/2017,Zambia: Earthquake - Northern - 24/02/2017,Geophysical,Earthquake,54.0,ZM,AF,16853688
+ZMB,Zambia,2017,2/7/2017,Zambia: Flood - 4 provinces - 07/02/2017,Weather related,Flood,2352.0,ZM,AF,16853688
+ZMB,Zambia,2017,12/14/2017,Zambia: Storm - North Western - 14/12/2017,Weather related,Storm,167.0,ZM,AF,16853688
+ZMB,Zambia,2018,3/21/2018,Zambia: Flood - Mangango - 21/03/2018,Weather related,Flood,1.0,ZM,AF,17351822
+ZMB,Zambia,2018,9/11/2018,Zambia: Thunderstorm - Luwingu district - 11/09/2018,Weather related,Storm,20.0,ZM,AF,17351822
+ZMB,Zambia,2019,1/9/2019,Zambia: Floods- Chama- (Muchinga)- 09/01/2019,Weather related,Flood,53.0,ZM,AF,17861030
+ZMB,Zambia,2019,12/31/2019,"Zambia: Floods- Eastern province (Mambwe district, Lumezi district)- 31/12/2019",Weather related,Flood,1252.0,ZM,AF,17861030
+ZWE,Zimbabwe,2013,1/17/2013,Zimbabwe January Flooding,Weather related,Flood,43809.0,ZW,AF,13350356
+ZWE,Zimbabwe,2014,10/1/2014,Mutasa hailstorm,Weather related,Storm,92.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,10/1/2014,Nyanga hailstorm,Weather related,Storm,60.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,4/1/2014,Insiza hailstorm,Weather related,Storm,60.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,2/1/2014,Gokwe North hailstorm,Weather related,Storm,376.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,12/17/2014,Mutare floods,Weather related,Flood,90.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,8/1/2014,Chipinge veld fire,Weather related,Wildfire,16.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,1/1/2014,Goromonzi landslide,Weather related,Wet mass movement,4.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,10/1/2014,Matobo hailstorm,Weather related,Storm,40.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,2/1/2014,Tokwe Mukorsi Dam flood,Weather related,Flood,20000.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,1/1/2014,Mt Darwin hailstorm (Jan),Weather related,Storm,800.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,12/1/2014,Mutare flood,Weather related,Flood,8.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,12/1/2014,Mt Darwin hailstorm (Dec),Weather related,Storm,80.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,12/1/2014,Mutare hailstorm,Weather related,Storm,60.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,11/1/2014,Buhera hailstorm,Weather related,Storm,64.0,ZW,AF,13586681
+ZWE,Zimbabwe,2014,10/1/2014,Mwenezi hailstorm,Weather related,Storm,760.0,ZW,AF,13586681
+ZWE,Zimbabwe,2015,1/2/2015,North-eastern floods,Weather related,Storm,800.0,ZW,AF,13814629
+ZWE,Zimbabwe,2016,12/14/2016,Floods in Matabeleland North Province,Weather related,Flood,400.0,ZW,AF,14030390
+ZWE,Zimbabwe,2017,11/15/2017,Zimbabwe: Hailstorm - Bulawayo - 15/11/2017,Weather related,Storm,200.0,ZW,AF,14236745
+ZWE,Zimbabwe,2017,1/1/2017,Zimbabwe: Rainy season - January 2017,Weather related,Flood,8485.0,ZW,AF,14236745
+ZWE,Zimbabwe,2017,2/18/2017,Botswana; Mozambique; South Africa; Zimbabwe: Tropical Cyclone Dineo - 15/02/2017,Weather related,Storm,1577.0,ZW,AF,14236745
+ZWE,Zimbabwe,2017,2/26/2017,Zimbabwe - Landslide - Musamiri - 26/02/2017,Weather related,Wet mass movement,8.0,ZW,AF,14236745
+ZWE,Zimbabwe,2018,5/15/2018,Zimbabwe: Flash flood - Matabeleland South; Masvingo; Midlands; Manicaland - 15/05/2018,Weather related,Storm,780.0,ZW,AF,14439018
+ZWE,Zimbabwe,2018,1/8/2018,Zimbabwe: Hailstorm - Midlands - 08/01/2018,Weather related,Storm,188.0,ZW,AF,14439018
+ZWE,Zimbabwe,2018,12/8/2018,Zimbabwe: Storms - Karoi - 08/12/2018,Weather related,Storm,16.0,ZW,AF,14439018
+ZWE,Zimbabwe,2018,1/1/2018,Zimbabwe: Hailstorm - Umguza - 01/01/2018,Weather related,Storm,80.0,ZW,AF,14439018
+ZWE,Zimbabwe,2019,3/4/2019,"Malawi, Mozambique, Madagascar, Zimbabwe: Cyclone Idai - 04/03/2019",Weather related,Storm,50905.0,ZW,AF,14645468
+ZWE,Zimbabwe,2019,2/13/2019,Zimbabwe: Floods- Chiredzi (Masvingo)- 13/02/2019,Weather related,Flood,200.0,ZW,AF,14645468
+ZWE,Zimbabwe,2019,10/7/2019,Zimbabwe: Hailstorm- Masvingo (Zaka)- 07/10/2019,Weather related,Storm,400.0,ZW,AF,14645468
+ZWE,Zimbabwe,2019,1/11/2019,Zimbabwe: Storm - Masvingo - 11/01/2019,Weather related,Storm,800.0,ZW,AF,14645468
